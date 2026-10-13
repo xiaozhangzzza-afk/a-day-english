@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-13",
+  "title": "第一次见面，自然聊起来",
+  "subtitle": "Meeting someone new",
+  "minutes": 25,
+  "level": "阅读 A2 · 听力 A1",
+  "audio": {
+    "url": "https://learnenglish.britishcouncil.org/free-resources/listening/a1/meeting-other-students",
+    "title": "Meeting other students",
+    "source": "British Council LearnEnglish",
+    "note": "先听源页面音频，不展开 Transcript。已核对原文，未测试你所在网络的播放情况。"
+  },
+  "sections": [
+    {
+      "id": "listen",
+      "title": "01 · 无字幕先听",
+      "body": "第一遍不暂停，漏掉个别词也继续听。只抓人物、场景、意图。第二遍留意来自哪里、在哪里长大。",
+      "questions": [
+        "他们是在初次认识，还是安排一次聚会？",
+        "除了来自哪里，他们还讨论了什么？",
+        "精听：Selim 原本来自哪里？在哪里附近长大？"
+      ],
+      "answers": "他们在初次认识，还谈了所学专业。Selim 原本来自 Leeds，在 London 附近长大。请听两遍后再看源页面 Transcript。"
+    },
+    {
+      "id": "sound",
+      "title": "02 · 精听与声音",
+      "body": "挑出最卡的两句，各听三次，再看源页面原文。\n给卡点分类：①不知道这个词；②认识却没听出来；③听出了但翻译太慢。\n原文短句：Nice to meet you! / Where are you from? / What about you, Selim?\n这些表达中，to、are 等词可能弱读；注意关键词 meet、where、from、you。具体读法以原音为准。\n看原文听一次 → 逐句听后模仿 → 关掉原文重听。"
+    },
+    {
+      "id": "read",
+      "title": "03 · 原创阅读",
+      "body": "At a small party, Lin stands near the kitchen with a glass of water. She knows the host, Anna, but she has not met the other guests. A woman smiles and says, “Hi, I’m Emma. How do you know Anna?”\n\n“We work together,” Lin replies. “Nice to meet you.”\n\nEmma asks what Lin likes doing in her free time. Lin enjoys taking photos and visiting cafés. Emma likes walking, so they talk about a nearby park. Lin misses the name of the park and asks, “Sorry, could you say that again?” Emma repeats it slowly.\n\nSoon, Lin feels more comfortable. Before Emma leaves to get a drink, Lin says, “It was nice talking to you.” She is pleased: a simple question helped her start a friendly conversation.",
+      "questions": [
+        "How does Lin know Anna?",
+        "What does Lin say when she misses the park’s name?"
+      ],
+      "translation": "在一个小聚会上，林端着水站在厨房附近。她认识主人安娜，但没见过其他客人。艾玛向她微笑并问她怎么认识安娜。林说她们是同事，很高兴认识艾玛。\n她们聊起爱好。林喜欢拍照和逛咖啡馆，艾玛喜欢散步。林没听清公园的名字，请艾玛再说一遍。艾玛慢慢重复了。\n林渐渐自在起来。艾玛去拿饮料前，林说和她聊天很开心。一个简单的问题帮助她开启了一段友好交流。",
+      "answers": "1. They work together.\n2. “Sorry, could you say that again?”"
+    },
+    {
+      "id": "words",
+      "title": "04 · 词汇与短语",
+      "body": "1. How do you know …? — 你怎么认识……？\nHow do you know Anna? 你怎么认识安娜？\n\n2. work together — 一起工作\nWe work together. 我们是同事。\n\n3. in your free time — 空闲时\nWhat do you do in your free time? 你空闲时做什么？\n\n4. enjoy doing … — 喜欢做……\nI enjoy taking photos. 我喜欢拍照。\n\n5. How about you? — 你呢？\nI like walking. How about you? 我喜欢散步，你呢？\n\n6. nearby — 附近的\nThere’s a park nearby. 附近有个公园。\n\n7. Could you say that again? — 能再说一遍吗？\nSorry, could you say that again? 不好意思，能再说一遍吗？\n\n8. feel comfortable — 感到自在\nI feel comfortable here. 我在这里觉得自在。\n\n9. It was nice talking to you. — 和你聊天很开心\nIt was nice talking to you. See you soon! 和你聊天很开心，下次见！"
+    },
+    {
+      "id": "grammar",
+      "title": "05 · 语法小练习",
+      "body": "enjoy + 动词-ing：表示喜欢做某事。\nI enjoy meeting new people. 我喜欢认识新朋友。\nShe enjoys cooking. 她喜欢做饭。\n不要使用 enjoy to do。",
+      "questions": [
+        "填空：I enjoy ______ (talk) to new people.",
+        "改错：She enjoys visit new cafés."
+      ],
+      "answers": "1. talking\n2. She enjoys visiting new cafés."
+    },
+    {
+      "id": "speak",
+      "title": "06 · 口语与快速回应",
+      "body": "双人对话：\nA: Hi, I’m Emma. How do you know Anna?\nB: We work together. I’m Lin. Nice to meet you.\nA: What do you do in your free time?\nB: I enjoy taking photos. How about you?\n\n替换：① work together → went to school together（以前是同学）。② taking photos → cooking / playing badminton。\n\n快速回应：尽量在 2–3 秒内开始说短句，不必先完整翻译。\n① How do you know Anna?\n② What do you do in your free time?\n③ 你没听清对方的话。\n\n30–60 秒表达：介绍自己、说两个爱好、问对方一个问题。",
+      "answers": "参考回应，答案不唯一：\n① We work together.\n② I enjoy cooking and taking photos.\n③ Sorry, could you say that again?\n\nHi, I’m Lin. Nice to meet you. Anna and I work together. I enjoy taking photos and playing badminton. How about you?"
+    },
+    {
+      "id": "review",
+      "title": "07 · 收尾复习",
+      "body": "今天是网页第一课。合上文字，说出这三句，并替换成自己的情况：\nHow do you know Anna?\nI enjoy taking photos.\nCould you say that again?\n记录第一遍听懂比例和最卡的一句，明天复习其中 2–3 个表达。"
+    }
+  ]
+}
