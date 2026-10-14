@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-14",
+  "title": "第一天上班，认识新同事",
+  "subtitle": "Meeting a new colleague",
+  "minutes": 24,
+  "level": "阅读 A2–B1 · 听力 A1",
+  "audio": {
+    "url": "https://learnenglish.britishcouncil.org/free-resources/listening/a1/meeting-new-team-member",
+    "title": "Meeting a new team member",
+    "source": "British Council LearnEnglish",
+    "note": "使用页面音频 0:00–1:00（完整音频约 92 秒）。已实际打开页面并验证音频可以播放；页面含完整 Transcript 与练习。先不要展开 Transcript。"
+  },
+  "sections": [
+    {
+      "id": "listen",
+      "title": "01 · 无字幕先听（约 5 分钟）",
+      "body": "只听音频 0:00–1:00。\n\n第一遍：不暂停，不逐词翻译，只判断人物关系和谈话地点。\n第二遍：抓住 name、company、team、started、learn 等关键词。\n第三遍：听到答案后，立刻用一句简单英语复述。完成三遍后再展开源页面 Transcript。",
+      "questions": [
+        "Peter 和 Carla 是老朋友，还是刚认识的同事？",
+        "Carla 在哪个团队？她什么时候开始在那里工作？"
+      ],
+      "answers": "1. They are new colleagues meeting for the first time.\n2. Carla is in the marketing team. She started last week."
+    },
+    {
+      "id": "sound",
+      "title": "02 · 精听、连读与弱读（约 4 分钟）",
+      "body": "精听以下 3 处，每处循环 3 次：先只听 → 看短句核对 → 跟读 → 关掉文字再听。\n\n1. “I'm new here.”：I'm 常压缩得很短，重音落在 new 和 here。\n2. “I work in the design team.”：work‿in 容易连在一起；in the 中 the 通常较弱。\n3. “There are a lot of new things to learn.”：留意 a lot‿of 的词间连接，不要逐词切开。\n\n模仿时先保持节奏自然，不必强求口音。以上为辨音提示，具体声音以页面原音为准。"
+    },
+    {
+      "id": "read",
+      "title": "03 · 原创阅读（约 4 分钟）",
+      "body": "On Monday morning, Maya joins a new company. Her manager shows her the office and introduces her to Daniel, who works in the sales team. Daniel asks, “How are you finding your first day?” Maya says that everyone is friendly, but she still has many names to remember.\n\nThey discover that their teams often work together. Maya creates online content, while Daniel speaks to customers and collects feedback. He offers to show her where the meeting rooms are and explains how to book one. Before lunch, he invites her to sit with his team in the café downstairs.\n\nMaya feels less nervous after their conversation. She does not understand every detail, but she asks short questions instead of pretending. By the end of the morning, she knows one colleague well enough to ask for help.",
+      "questions": [
+        "Why do Maya and Daniel expect to work together?",
+        "What helps Maya feel less nervous?"
+      ],
+      "translation": "周一早上，玛雅加入了一家新公司。经理带她参观办公室，并把她介绍给销售团队的丹尼尔。丹尼尔问她第一天感觉如何。玛雅说大家都很友好，但她还要记住许多名字。\n\n他们发现两个团队经常合作。玛雅制作线上内容，丹尼尔与客户沟通并收集反馈。他主动带玛雅认识会议室，并解释如何预订。午饭前，他邀请她和自己的团队去楼下咖啡厅坐坐。\n\n这次交谈让玛雅没那么紧张。她没有假装全部听懂，而是用简短问题确认。上午结束时，她已经认识了一位可以求助的同事。",
+      "answers": "1. Maya creates content, and Daniel collects customer feedback, so their teams often work together.\n2. Daniel's friendly help and Maya's short questions help her feel less nervous."
+    },
+    {
+      "id": "words",
+      "title": "04 · 词汇与高频词块（约 4 分钟）",
+      "body": "1. be new here — 刚来这里\nI'm new here, so I'm still learning the names. 我刚来，还在记大家的名字。\n\n2. Welcome to … — 欢迎来到……\nWelcome to the team! 欢迎加入团队！\n\n3. work in the … team — 在……团队工作\nI work in the finance team. 我在财务团队工作。\n\n4. start last week — 上周入职/开始\nShe started last week. 她上周开始工作。\n\n5. a lot of … to learn — 有很多……要学\nThere are a lot of systems to learn. 有很多系统需要学习。\n\n6. be happy to help — 很乐意帮忙\nI'm happy to help if you have questions. 有问题我很乐意帮忙。\n\n7. work together — 一起工作、合作\nOur teams often work together. 我们两个团队经常合作。\n\n8. That sounds interesting. — 听起来很有意思\nYou plan events? That sounds interesting. 你负责策划活动？听起来很有意思。\n\n9. How are you finding …? — 你觉得……怎么样？\nHow are you finding your first week? 你觉得第一周怎么样？"
+    },
+    {
+      "id": "grammar",
+      "title": "05 · 语法：一般现在时与现在进行时（约 3 分钟）",
+      "body": "一般现在时表示固定职责或经常发生的事；现在进行时表示此刻或现阶段正在做的事。\n\nI work in marketing. 我在市场部工作。（固定情况）\nI'm learning the new system this week. 我这周正在熟悉新系统。（现阶段）",
+      "questions": [
+        "填空：I ______ (work) in the design team.",
+        "选择正确形式：This week, I learn / am learning how to book meeting rooms."
+      ],
+      "answers": "1. work\n2. am learning"
+    },
+    {
+      "id": "speak",
+      "title": "06 · 对话、替换与快速回应（约 3–4 分钟）",
+      "body": "原创双人对话：\nA: Hi, I'm Daniel. Are you new here?\nB: Yes, I'm Maya. I started this week.\nA: Welcome to the team. Where do you work?\nB: I work in online marketing. How about you?\nA: I'm in sales. I think we'll work together sometimes.\nB: Great. I'm happy to be here.\n\n替换练习：\n① online marketing → finance / design / customer service\n② started this week → started yesterday / joined last month\n\n快速回应：在 2–3 秒内开口。\n① Welcome to the team!\n② Where do you work?\n③ Let me know if you need any help.\n\n30–60 秒口头任务：假设你刚加入新公司，介绍姓名、部门、入职时间、当前在学什么，并向同事问一个问题。",
+      "answers": "参考回应：\n① Thanks! I'm happy to be here.\n② I work in the finance team.\n③ Thank you. I will.\n\nHi, I'm Zhang. I'm new here, and I started this week. I work in the finance team. I'm learning the new reporting system. What do you do in the company?"
+    },
+    {
+      "id": "review",
+      "title": "07 · 前课复习与收尾（约 2 分钟）",
+      "body": "复习昨天 3 个词块，并把人物换成今天的同事场景：\n1. How do you know Anna? → How do you know Daniel?\n2. I enjoy taking photos. → I enjoy working with customers.\n3. Could you say that again? → 遇到没听清时直接使用。\n\n最后关掉文字，再听 0:00–1:00。记录：第一遍听懂比例、最卡的一句，以及你对快速回应题的英文或语音回答。把这些发回原聊天，我可以分析你的用词与表达；只有拿到实际语音时才评价发音。"
+    }
+  ]
+}
