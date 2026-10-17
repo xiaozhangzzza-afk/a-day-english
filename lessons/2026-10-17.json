@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-17",
+  "title": "在咖啡馆自然点餐",
+  "subtitle": "Ordering clearly and handling small changes",
+  "minutes": 25,
+  "level": "Listening A1 transfer check · Reading A2–B1",
+  "audio": {
+    "url": "https://learnenglish.britishcouncil.org/free-resources/listening/a1/ordering-cafe",
+    "title": "Ordering in a café",
+    "source": "British Council LearnEnglish",
+    "note": "完整音频约 2分03秒；今天只听 0:00–1:10。已核对页面音频可播放、实际时长及配套 Transcript。这是本周迁移检查：前两遍不要看准备题、辨音提示或 Transcript；完整 Transcript 在来源页的 Transcript 标签中。"
+  },
+  "sections": [
+    {
+      "id": "listen",
+      "title": "1. 本周迁移听力｜不靠提示抓主旨（5分钟）",
+      "body": "这是未练过的同难度听力。打开来源页，只播放 0:00–1:10，先不要看 Preparation、Transcript 或下面的精听提示。\n\n第一遍：不中断，只判断场景、人物和订单有没有变化。\n第二遍：写下听到的饮料、大小、价格或服务员的问题；听不清时继续，不要逐词翻译。\n第三遍：完成两道题，并估计自己的无字幕听懂比例。完成后才能进入精听部分。第三方原文暂只提示一句：‘Can I have an orange juice, please?’",
+      "questions": [
+        "第一位顾客最后买了什么？A. 大杯鲜榨橙汁 B. 苹果汁 C. 瓶装橙汁",
+        "前 70 秒里，第二位顾客点餐时服务员主要确认什么？A. 堂食还是外带 B. 是否预约 C. 是否使用会员卡"
+      ],
+      "answers": "1. B。顾客原本想要鲜榨橙汁，但店里只有瓶装果汁，于是改成苹果汁。\n2. A。服务员问 To eat in or take away?\n\n迁移记录：第一遍听懂率比前几天更高、相近还是更低？只按主旨和关键信息评分，不要求每个词都听见。"
+    },
+    {
+      "id": "sound",
+      "title": "2. 精听辨音＋连读弱读（5分钟）",
+      "body": "完成迁移检查后，把 0:00–1:10 再听两遍。每处按“先听 → 暂停模仿两次 → 看提示 → 关文本重听”练习。\n\n① Can I have an ...?｜Can I 常连成 /kənaɪ/，have_an 也会连起来；不要等听到四个分开的词。\n② I'll have a large, then.｜I'll 是 I will 的缩写；have a 常连读，then 用来表示“那我就选……”。\n③ To eat in or take away?｜to 常弱读 /tə/；eat_in 连读，or 也很轻，重音落在 eat in 和 take away。\n\n最后关掉全部文字，重听 0:00–1:10，并跟读一轮。目标是把请求说成一个完整意群，而不是逐词停顿。",
+      "questions": [
+        "Can I 在自然语流中通常会连得像什么？",
+        "服务员用哪一句确认堂食还是外带？"
+      ],
+      "answers": "1. 接近 /kənaɪ/。\n2. To eat in or take away?"
+    },
+    {
+      "id": "read",
+      "title": "3. 原创阅读｜第一次独自点咖啡（4分钟）",
+      "body": "Leo visited a busy café near the station before catching his train. The menu was above the counter, but people behind him were waiting, so he felt nervous. Instead of translating every item, he looked for three things: the drink, the size and whether he wanted it hot or cold. He ordered a regular iced latte and a cheese sandwich. The server asked, “To eat in or take away?” Leo did not understand the first time, so he politely asked her to repeat the question. When she spoke again, he recognised “take away” and answered quickly. The café had no cheese sandwiches left, so he chose a chicken sandwich instead. Before paying, he repeated the order to check it. The whole conversation lasted less than a minute. Leo realised that he did not need perfect English. A few useful chunks, careful listening and one checking question were enough to order confidently.",
+      "questions": [
+        "What three details did Leo look for on the menu?",
+        "What did Leo do when he did not understand the server?"
+      ],
+      "translation": "利奥赶火车前去了车站附近一家繁忙的咖啡馆。菜单在柜台上方，但后面有人等着，所以他有些紧张。他没有逐项翻译，而是只找三件事：饮料、大小，以及要热的还是冷的。他点了一杯普通杯冰拿铁和一份芝士三明治。服务员问：“堂食还是外带？”利奥第一次没听懂，于是礼貌地请她重复。她再次说时，他认出了“外带”，很快作答。店里没有芝士三明治了，所以他改选鸡肉三明治。付款前，他重复订单进行确认。整段对话不到一分钟。利奥发现，他并不需要完美的英语；几个实用词块、认真听和一句确认问题，就足以让他自信地点餐。",
+      "answers": "1. The drink, the size, and whether he wanted it hot or cold.\n2. He politely asked the server to repeat the question."
+    },
+    {
+      "id": "words",
+      "title": "4. 高频词块｜点餐不逐词翻译（4分钟）",
+      "body": "1. Can I have ...?｜我可以要……吗？｜Can I have a regular latte, please? 我可以要一杯普通杯拿铁吗？\n2. I'll have ...｜我要……｜I'll have the chicken sandwich. 我要鸡肉三明治。\n3. Regular or large?｜普通杯还是大杯？｜Regular or large for your coffee? 咖啡要普通杯还是大杯？\n4. Without ice, please.｜请不要冰。｜A large apple juice without ice, please. 一大杯苹果汁，请不要冰。\n5. To eat in or take away?｜堂食还是外带？｜To eat in or take away today? 今天堂食还是外带？\n6. Anything else?｜还需要别的吗？｜Anything else with your drink? 饮料还要搭配别的吗？\n7. That's all, thanks.｜就这些，谢谢。｜That's all, thanks. How much is it? 就这些，谢谢。多少钱？\n8. Here you go.｜给你。｜Here you go. That's your coffee. 给你，这是你的咖啡。\n9. freshly squeezed｜鲜榨的｜Do you have freshly squeezed orange juice? 你们有鲜榨橙汁吗？",
+      "answers": "优先记住 7 个词块：Can I have ...? / I'll have ... / Regular or large? / Without ice, please. / To eat in or take away? / Anything else? / That's all, thanks."
+    },
+    {
+      "id": "grammar",
+      "title": "5. 语法｜Can I have + 名词？（3分钟）",
+      "body": "点餐时用 Can I have + 名词, please? 提出礼貌请求。它比直接说 Give me ... 自然得多。名词前注意 a/an 或数量表达。\n\n例句 1：Can I have a slice of lemon cake, please? 我可以要一块柠檬蛋糕吗？\n例句 2：Can I have two bottles of water, please? 我可以要两瓶水吗？",
+      "questions": [
+        "填空：Can I have ___ apple juice, please?",
+        "把直接命令改成礼貌点餐：Give me a large coffee."
+      ],
+      "answers": "1. an\n2. Can I have a large coffee, please?"
+    },
+    {
+      "id": "speak",
+      "title": "6. 对话＋替换＋快速回应（3分钟）",
+      "body": "原创对话\nServer: Hi. What can I get you?\nCustomer: Can I have a regular iced latte, please?\nServer: Sure. Anything else?\nCustomer: A slice of chocolate cake, please.\nServer: To eat in or take away?\nCustomer: To eat in, please. How much is that?\nServer: That's £6.20.\nCustomer: Here you go.\n\n替换练习\n① regular iced latte → large hot tea；chocolate cake → chicken sandwich。\n② to eat in → take away；£6.20 → £5.80。\n\n快速回应：3 秒内开口。\n1) 服务员问大小：Regular, please.\n2) 服务员问是否还要别的：That's all, thanks.\n3) 没听清堂食还是外带：Sorry, could you say that again?\n\n30–60 秒口头任务：模拟完整点餐。点一杯饮料和一种食物，说明大小、冷热或是否加冰，回答堂食/外带，最后询价。尽量用词块整句说，不要先在脑中翻译。",
+      "answers": "示例：Hi. Can I have a large iced coffee without sugar, please? I'll also have a chicken sandwich. Take away, please. That's all, thanks. How much is that?"
+    },
+    {
+      "id": "review",
+      "title": "7. 复习＋迁移反馈（1分钟）",
+      "body": "复习昨天 3 个改约词块：\n1. Something's come up.｜临时出了点事。\n2. How about next week?｜下周怎么样？\n3. Would Sunday work for you?｜周日你方便吗？\n\n快速串联：Something's come up. How about next week? Would Sunday work for you?\n\n请回原聊天告诉我：① 今天第一次无提示听懂了约百分之多少；② 最卡的是哪一句；③ 和前几天相比，主旨理解是更高、相近还是更低；④ 用英文文字或语音完成点餐任务。只有实际收到并分析你的语音后，我才会评价发音。",
+      "answers": "完成标准：能不看文字说出 3 个点餐词块，并在 30–60 秒内完成一次饮料＋食物订单。"
+    }
+  ]
+}
