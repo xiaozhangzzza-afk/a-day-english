@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-18",
+  "title": "旅行中礼貌问路",
+  "subtitle": "Asking for directions without translating every word",
+  "minutes": 24,
+  "level": "Listening A1 · Reading A2–B1",
+  "audio": {
+    "url": "https://learnenglish.britishcouncil.org/free-resources/listening/a1/finding-library",
+    "title": "Finding the library",
+    "source": "British Council LearnEnglish",
+    "note": "完整音频约 2分10秒；今天只听 0:00–1:00。已实际打开来源页，核验音频可播放、播放进度、时长及配套 Transcript。先不要展开原文；完整 Transcript 在来源页的 Transcript 标签中。"
+  },
+  "sections": [
+    {
+      "id": "listen",
+      "title": "1. 无字幕听力｜抓地点和路线（4分钟）",
+      "body": "打开来源页，只播放 0:00–1:00，先不要看 Preparation、Transcript 或下面的提示。\n\n第一遍：不中断，只判断学生在找什么地方。\n第二遍：只记地点词和位置词，例如 library、office、building、next to、right。漏词也继续听，不要在脑中逐句翻译。\n第三遍：完成两道主旨题，再估计第一次无字幕听懂比例。完成后才能进入精听。第三方原文只短提示一句：‘Where's the library?’",
+      "questions": [
+        "学生最初想找到哪里？A. 图书馆 B. 火车站 C. 咖啡馆",
+        "图书馆与登记办公室是什么位置关系？A. 在对面 B. 在旁边 C. 在楼上"
+      ],
+      "answers": "1. A。学生在找图书馆。\n2. B。图书馆在登记办公室旁边。"
+    },
+    {
+      "id": "sound",
+      "title": "2. 精听辨音＋连读弱读（5分钟）",
+      "body": "把 0:00–1:00 再听两遍。每处按“先听 → 暂停模仿两次 → 看提示 → 关文本重听”练习。\n\n① Where's the library?｜Where's 是 Where is 的缩写，the 很轻，重音落在 library。\n② It's next to the registration office.｜next to 中的 to 常弱读 /tə/；next_to 连成一个意群。\n③ See the big building over there?｜building_over 会自然连接；the 不重读，big、building、there 更突出。\n\n最后关掉文字，重听 0:00–1:00，并跟读一轮。不要追求每个词一样响，先模仿重音和节奏。",
+      "questions": [
+        "Where's 是哪两个词的缩写？",
+        "next to 中哪个词通常弱读？"
+      ],
+      "answers": "1. Where is。\n2. to，常弱读为 /tə/。"
+    },
+    {
+      "id": "read",
+      "title": "3. 原创阅读｜在陌生城市找到旅馆（4分钟）",
+      "body": "Nora arrived in York on a rainy afternoon. Her phone battery was almost empty, and she could not use the map for long. She needed to find a small hotel near the railway station, so she asked a woman outside a bakery for help. Instead of explaining everything, Nora used one clear question: “Excuse me, could you tell me how to get to King Street?” The woman pointed towards a traffic light and told her to go straight, turn left and walk past a bank. Nora understood most of the route, but she missed the final landmark. She asked, “Is it next to the bank?” The woman smiled and said the hotel was opposite the bank, beside a bookshop. Nora repeated the last part to check: “Opposite the bank, beside the bookshop?” After a ten-minute walk, she found it easily. Asking one short checking question saved her from going the wrong way.",
+      "questions": [
+        "Why could Nora not depend on her phone map?",
+        "What did Nora do after missing the final landmark?"
+      ],
+      "translation": "一个下雨的下午，诺拉抵达约克。她的手机快没电了，不能长时间使用地图。她需要找到火车站附近的一家小旅馆，于是向面包店外的一位女士求助。诺拉没有解释一大堆，而是问了一个清楚的问题：“打扰一下，您能告诉我怎么去国王街吗？”那位女士指向红绿灯，告诉她直走、左转并经过一家银行。诺拉听懂了大部分路线，但漏掉了最后一个地标。她问：“是在银行旁边吗？”女士笑着说，旅馆在银行对面、书店旁边。诺拉重复最后一部分确认：“银行对面，书店旁边？”步行十分钟后，她很容易就找到了。一个简短的确认问题避免了她走错路。",
+      "answers": "1. Her phone battery was almost empty.\n2. She asked a short checking question and repeated the final directions."
+    },
+    {
+      "id": "words",
+      "title": "4. 高频词块｜问路不逐词翻译（4分钟）",
+      "body": "1. Excuse me.｜打扰一下。｜Excuse me. Could you help me? 打扰一下，您能帮我吗？\n2. Where's ...?｜……在哪里？｜Where's the nearest station? 最近的车站在哪里？\n3. How do I get to ...?｜我怎么去……？｜How do I get to King Street? 我怎么去国王街？\n4. Go straight.｜直走。｜Go straight for two minutes. 直走两分钟。\n5. Turn left/right.｜左转/右转。｜Turn right at the traffic light. 在红绿灯处右转。\n6. It's next to ...｜它在……旁边。｜It's next to the registration office. 它在登记办公室旁边。\n7. Is it far from here?｜离这里远吗？｜Is the hotel far from here? 旅馆离这里远吗？\n8. opposite｜在……对面｜The bank is opposite the station. 银行在车站对面。\n9. landmark｜地标｜Use the museum as a landmark. 把博物馆当作地标。",
+      "answers": "优先记住 7 个词块：Excuse me. / Where's ...? / How do I get to ...? / Go straight. / Turn left/right. / It's next to ... / Is it far from here?"
+    },
+    {
+      "id": "grammar",
+      "title": "5. 语法｜地点介词 next to / opposite / between（3分钟）",
+      "body": "用地点介词快速说明位置：next to 表示“紧挨着”，opposite 表示“在对面”，between A and B 表示“在 A 与 B 之间”。\n\n例句 1：The hotel is next to the bookshop. 旅馆在书店旁边。\n例句 2：The café is between the bank and the station. 咖啡馆在银行和车站之间。",
+      "questions": [
+        "填空：The museum is ___ the bank and the hotel.",
+        "翻译：图书馆在登记办公室对面。"
+      ],
+      "answers": "1. between\n2. The library is opposite the registration office."
+    },
+    {
+      "id": "speak",
+      "title": "6. 对话＋替换＋快速回应（3分钟）",
+      "body": "原创对话\nTraveller: Excuse me. How do I get to the city museum?\nLocal: Go straight and turn right at the traffic light.\nTraveller: Is it far from here?\nLocal: No, it's about five minutes away. It's next to a large bank.\nTraveller: Next to the bank, right?\nLocal: That's right.\nTraveller: Great. Thank you!\n\n替换练习\n① city museum → railway station；turn right → turn left。\n② five minutes → ten minutes；next to a bank → opposite a supermarket。\n\n快速回应：3 秒内开口。\n1) 礼貌引起陌生人注意：Excuse me. Could you help me?\n2) 询问去火车站的路线：How do I get to the railway station?\n3) 没听清最后位置：Sorry, is it next to the bank?\n\n30–60 秒口头任务：你在陌生城市找一家酒店。礼貌问路，确认是否很远，并重复一个地标进行核对。使用完整词块，不要先逐字翻译。",
+      "answers": "示例：Excuse me. How do I get to the Central Hotel? Is it far from here? So I go straight, turn left at the traffic light, and it's opposite the bank. Is that right? Thank you!"
+    },
+    {
+      "id": "review",
+      "title": "7. 前课复习＋反馈（1分钟）",
+      "body": "复习昨天 3 个点餐词块：\n1. Can I have ...?｜我可以要……吗？\n2. To eat in or take away?｜堂食还是外带？\n3. That's all, thanks.｜就这些，谢谢。\n\n快速串联：Can I have a coffee, please? To take away. That's all, thanks.\n\n请回原聊天告诉我：① 今天第一次无字幕听懂了约百分之多少；② 最卡的是哪一句；③ 用英文文字或语音完成问路任务。只有实际收到并分析你的语音后，我才会评价发音。",
+      "answers": "完成标准：能不看文字说出 3 个问路词块，并在 30–60 秒内完成一次问路、确认距离和核对地标。"
+    }
+  ]
+}
