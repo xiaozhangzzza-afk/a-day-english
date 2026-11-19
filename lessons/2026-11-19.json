@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-19",
+  "title": "咖啡馆点单：选大小、换饮料、礼貌确认",
+  "subtitle": "Order clearly and fix a small mistake at a café",
+  "minutes": 24,
+  "level": "听力 A1｜阅读 A2–B1",
+  "audio": {
+    "url": "https://learnenglish.britishcouncil.org/free-resources/listening/a1/ordering-cafe",
+    "title": "Ordering in a café",
+    "source": "British Council LearnEnglish",
+    "note": "使用 00:00–01:20（80秒）。2026-11-19 已从官方页面定位媒体并按实时速度连续解码核验；完整音频约 02:02.62。页面提供完整 Transcript。先不看原文听三遍。"
+  },
+  "sections": [
+    {
+      "id": "listen",
+      "title": "1｜无字幕先听：顾客最后买了什么（5分钟）",
+      "body": "打开官方页面，播放 00:00–01:20。第一遍不要看 Transcript，也不要暂停，只判断有几位顾客开口、第一位顾客的订单发生了什么变化。第二遍记下饮料、大小、是否加冰和价格等关键词。第三遍再展开原文核对，避免逐词翻译。",
+      "questions": [
+        "1. 第一位顾客为什么改变饮料选择？最后要了什么？",
+        "2. 第二位顾客点了哪种茶和哪种食物？是堂食还是外带？"
+      ],
+      "answers": "1. 店里只有瓶装果汁，没有鲜榨橙汁；他改点苹果汁。\n2. 他点薄荷茶和一片柠檬蛋糕，并选择外带。"
+    },
+    {
+      "id": "sound",
+      "title": "2｜精听辨音、弱读与跟读（4分钟）",
+      "body": "每处先盲听2遍，再看文字；跟读3遍后关文本重听。\n\n① “Can I have ...?”：can 常弱读 /kən/，can‿I 连起来，重音落在具体饮品。\n② “I'll have a large.”：I'll 与 have 连读；a 弱读 /ə/，large 更突出。\n③ “To eat in or take away?”：to 弱读 /tə/；eat‿in 连读，eat in 与 take away 形成两组节奏。\n\n最后用原速跟读“点单—澄清—改选—付款”这一段，再关文本听一次。只抓信息词，不要在脑中逐字翻译。",
+      "answers": "辨音自查：第一遍能抓到 orange juice / large / without ice / apple juice / take away，就已经掌握主要信息。"
+    },
+    {
+      "id": "read",
+      "title": "3｜阅读：点错了，也可以自然改口（4分钟）",
+      "body": "After a long morning, Daniel stopped at a small café near the station. He first ordered a large iced coffee, but the server explained that the machine was being cleaned. Daniel did not want to hold up the queue, so he quickly chose a hot coffee instead. The server asked whether he wanted regular or large and whether the drink was for here or to go. Daniel chose a regular coffee to go and added a cheese sandwich. When the order arrived, he noticed that the sandwich contained onions. He politely said that he had asked for one without onions. The server apologised and replaced it. Daniel checked the total, paid by card and thanked her. The problem took less than a minute to solve because he stayed calm, explained the exact detail and accepted the replacement without complaining.",
+      "questions": [
+        "1. Why did Daniel change his drink order?",
+        "2. How did he solve the problem with the sandwich?"
+      ],
+      "translation": "忙碌了一上午后，丹尼尔在车站附近的一家小咖啡馆停下来。他起初点了一大杯冰咖啡，但服务员解释说咖啡机正在清洁。丹尼尔不想耽误队伍，很快改点热咖啡。服务员询问他要普通杯还是大杯，以及堂食还是外带。丹尼尔选择普通杯热咖啡外带，又加了一个奶酪三明治。拿到餐点时，他发现三明治里有洋葱。他礼貌地说明自己点的是不加洋葱的。服务员道歉并更换了三明治。丹尼尔核对总价、刷卡付款并道谢。由于他保持冷静、说清具体问题并接受更换，整个问题不到一分钟就解决了。",
+      "answers": "1. The coffee machine was being cleaned, so iced coffee was unavailable.\n2. He politely explained that he had ordered it without onions, and the server replaced it."
+    },
+    {
+      "id": "words",
+      "title": "4｜词汇与高频词块（4分钟）",
+      "body": "1. Can I have ...?｜我可以要……吗？｜Can I have a black coffee, please? 请给我一杯黑咖啡。\n2. regular or large｜普通杯还是大杯｜Would you like regular or large? 您要普通杯还是大杯？\n3. without ice｜不加冰｜I'll have an orange juice without ice. 我要橙汁，不加冰。\n4. I'll have ... instead.｜我改要……｜I'll have tea instead. 我改要茶。\n5. to eat in or take away｜堂食还是外带｜Is that to eat in or take away? 这是堂食还是外带？\n6. Here you go.｜给你。｜Here you go—one coffee and one sandwich. 给你，一杯咖啡和一个三明治。\n7. That's ... altogether.｜一共……｜That's six pounds altogether. 一共六英镑。\n8. I asked for ...｜我点的是……｜Sorry, I asked for the salad without cheese. 抱歉，我点的是不加奶酪的沙拉。\n9. replace｜更换｜Could you replace this drink, please? 能帮我换一下这杯饮料吗？\n10. queue｜队伍｜The queue moved quickly. 队伍前进得很快。",
+      "answers": "先记住前8个整句词块。把饮品、大小、冷热、堂食/外带和特殊要求替换进去练习。"
+    },
+    {
+      "id": "grammar",
+      "title": "5｜语法：I'll have ... 表示当场选择（2分钟）",
+      "body": "点单或刚做出决定时，可用 I'll have + 名词。需要改变选择时加 instead。\n\n例句1：I'll have a large coffee, please. 我要一大杯咖啡。\n例句2：I'll have the apple juice instead. 我改要苹果汁。",
+      "questions": [
+        "1. 填空：I'll ____ a mint tea, please.",
+        "2. 翻译：我改要普通杯的。"
+      ],
+      "answers": "1. have\n2. I'll have a regular one instead."
+    },
+    {
+      "id": "speak",
+      "title": "6｜双人对话、替换与快速回应（4分钟）",
+      "body": "【原创对话】\nA: Hi. Can I have a large orange juice, please?\nB: Of course. With ice?\nA: Without ice, please. Is it freshly squeezed?\nB: Sorry, we only have bottled juice.\nA: No problem. I'll have an apple juice instead.\nB: To eat in or take away?\nA: Take away, please.\n\n【替换练习】\n1. orange juice / apple juice 换成 iced coffee / hot coffee。\n2. large / without ice 换成 regular / with less sugar。\n\n【快速回应：3秒内开口】\n1. 店员问 Regular or large? → A regular one, please.\n2. 没有你想要的饮料 → I'll have tea instead.\n3. 店员问堂食还是外带 → To eat in, please.\n\n【30–60秒口头任务】完成一段咖啡馆点单：点饮料和大小；说一个特殊要求；得知没有后换一种；选择堂食或外带；确认价格并道谢。看提示说一次，再关文本说一次。",
+      "answers": "示例：Can I have a large iced coffee, please? Without sugar. Oh, it's unavailable? I'll have a hot coffee instead. To take away, please. How much is it altogether? Thanks."
+    },
+    {
+      "id": "review",
+      "title": "7｜复习上一课与反馈（1分钟）",
+      "body": "复习11月18日3个词块：\n1. I didn't catch that.｜我没听清。\n2. Do you mean ...?｜你的意思是……吗？\n3. Is that right?｜对吗？\n\n串联：Sorry, I didn't catch that. Do you mean the large one? It's £4.20, is that right?\n\n请回原聊天告诉我：① 第一遍无字幕听懂比例；② 最卡的一句；③ 用英文文字或语音完成30–60秒点单。只有实际收到并能分析你的语音时，我才评价发音。",
+      "answers": "示例意思：抱歉，我没听清。你指的是大杯吗？一共4.20英镑，对吗？"
+    }
+  ]
+}
