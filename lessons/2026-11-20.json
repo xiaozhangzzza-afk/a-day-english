@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-20",
+  "title": "问路找地点：本周听力迁移检查",
+  "subtitle": "Follow simple directions without translating every word",
+  "minutes": 24,
+  "level": "听力 A1｜阅读 A2–B1",
+  "audio": {
+    "url": "https://learnenglish.britishcouncil.org/free-resources/listening/a1/finding-library",
+    "title": "Finding the library",
+    "source": "British Council LearnEnglish",
+    "note": "本周迁移检查，素材此前未练。使用 00:00–01:20（80秒）。2026-11-20 已从官方页面定位媒体并按实时速度连续解码核验；完整音频约 02:09.75。页面提供完整 Transcript，答完主旨题再看。"
+  },
+  "sections": [
+    {
+      "id": "listen",
+      "title": "1｜无字幕迁移检查：先找位置，再听规则（5分钟）",
+      "body": "播放 00:00–01:20。第一遍不看 Transcript、不暂停，只判断学生先向谁问路，后来又向谁询问信息。第二遍画一个简单位置图，写出 lecture theatre、registration office 和 library 的相对位置。第三遍听学生进入图书馆后想做什么。最后才看原文核对。",
+      "questions": [
+        "1. 图书馆在哪里？请用中文描述三个建筑的相对位置。",
+        "2. 学生进入图书馆后想做什么？他首先需要什么？"
+      ],
+      "answers": "1. 大楼是讲堂；注册办公室在讲堂右边，图书馆又在注册办公室旁边。\n2. 他想借书，首先需要图书证并填写申请表。"
+    },
+    {
+      "id": "sound",
+      "title": "2｜精听辨音、连读与跟读（4分钟）",
+      "body": "每处先盲听2遍，再看文字模仿3遍，最后关文本重听。\n\n① “Where's the library?”：where is 缩约成 where's，重音在 library。\n② “It's next to ...”：next to 中 /t/ 很轻，to 弱读 /tə/，整体听成一个节奏块。\n③ “Can I help you?”：can 弱读 /kən/，can‿I 连读，help 重读。\n\n先听后模仿，再关文本重听整个80秒。只跟踪地点词和动作词，不在脑中逐句翻中文。",
+      "answers": "自查：若能听到 library / next to / on the right / borrow / card，就抓住了主要信息。"
+    },
+    {
+      "id": "read",
+      "title": "3｜阅读：第一次去陌生办公楼（4分钟）",
+      "body": "On her first visit to a client's office, Nora arrived at the wrong entrance. The building had two reception areas, and her meeting was in the newer tower. She asked a security guard where Meeting Room 4B was. He explained that she should walk past the café, turn left at the lifts and take the second lift to the fourth floor. The room was opposite the finance department. Nora repeated the key steps: past the café, left at the lifts, fourth floor, opposite Finance. The guard confirmed them. When Nora reached the fourth floor, she saw rooms 4A and 4C but not 4B. Instead of walking around silently, she asked another employee. Room 4B was behind a glass door beside the printers. Nora arrived on time because she listened for landmarks and checked the instructions in short chunks.",
+      "questions": [
+        "1. Which four key steps did Nora repeat?",
+        "2. Why did Nora arrive on time despite going to the wrong entrance?"
+      ],
+      "translation": "诺拉第一次去客户办公室时走错了入口。大楼有两个接待区，她的会议在较新的塔楼。她询问保安4B会议室在哪里。保安解释说，她应走过咖啡馆，在电梯处左转，乘第二部电梯到四楼。会议室在财务部门对面。诺拉重复关键步骤：经过咖啡馆、电梯处左转、四楼、财务部对面。保安确认无误。到了四楼，她看见4A和4C，却没找到4B。她没有默默乱找，而是询问另一位员工。4B在打印机旁的玻璃门后。诺拉能准时到达，是因为她抓住地标，并把指示分成短块核对。",
+      "answers": "1. Past the café, left at the lifts, the fourth floor, and opposite Finance.\n2. She listened for landmarks, repeated the key steps and asked again when needed."
+    },
+    {
+      "id": "words",
+      "title": "4｜词汇与高频词块（4分钟）",
+      "body": "1. Excuse me, where's ...?｜请问……在哪里？｜Excuse me, where's Platform 3? 请问3号站台在哪里？\n2. be next to ...｜在……旁边｜The bank is next to the hotel. 银行在酒店旁边。\n3. on the right/left｜在右边/左边｜The entrance is on the right. 入口在右边。\n4. go past ...｜经过……｜Go past the café and turn left. 经过咖啡馆后左转。\n5. turn left/right｜左转/右转｜Turn right at the traffic lights. 在红绿灯处右转。\n6. be opposite ...｜在……对面｜The station is opposite the park. 车站在公园对面。\n7. Is this the right way to ...?｜这是去……的正确方向吗？｜Is this the right way to the museum? 这是去博物馆的正确方向吗？\n8. I see. Thanks.｜明白了，谢谢。｜I see. Thanks for your help. 明白了，谢谢你的帮助。\n9. landmark｜地标｜Use the tower as a landmark. 把那座塔当作地标。\n10. entrance｜入口｜Let's meet at the main entrance. 我们在正门见。",
+      "answers": "优先整块掌握前8项。练习时替换车站、酒店、会议室、机场等地点。"
+    },
+    {
+      "id": "grammar",
+      "title": "5｜语法：地点介词 next to / opposite / on（2分钟）",
+      "body": "next to 表示“紧挨着”；opposite 表示“在对面”；on the left/right 表示“在左/右侧”。\n\n例句1：The library is next to the registration office. 图书馆在注册办公室旁边。\n例句2：The meeting room is opposite the lifts. 会议室在电梯对面。",
+      "questions": [
+        "1. 填空：The café is ____ the bank; they face each other.",
+        "2. 翻译：入口在电梯右边。"
+      ],
+      "answers": "1. opposite\n2. The entrance is on the right of the lifts."
+    },
+    {
+      "id": "speak",
+      "title": "6｜双人对话、替换与快速回应（4分钟）",
+      "body": "【原创对话】\nA: Excuse me, where's Meeting Room 4B?\nB: Go past the café and turn left at the lifts. It's on the fourth floor, opposite Finance.\nA: So, past the café, left at the lifts, then the fourth floor. Is that right?\nB: Yes, that's right.\nA: Great. Thanks for your help.\n\n【替换练习】\n1. Meeting Room 4B / café / lifts 换成 Platform 6 / ticket office / stairs。\n2. fourth floor / opposite Finance 换成 second floor / next to Reception。\n\n【快速回应：3秒内开口】\n1. 你要找洗手间 → Excuse me, where's the toilet?\n2. 对方说在银行旁边 → It's next to the bank.\n3. 你想确认路线 → So I turn right here. Is that right?\n\n【30–60秒口头任务】从酒店去会议地点：描述起点、经过一个地标、转弯、最终位置，并加一句确认问题。看提示说一次，再关文本说一次。",
+      "answers": "示例：Go out of the hotel and turn left. Walk past the bank, then turn right at the café. The office is opposite the station. Is that right?"
+    },
+    {
+      "id": "review",
+      "title": "7｜复习上一课与反馈（1分钟）",
+      "body": "复习11月19日3个词块：\n1. Can I have ...?｜我可以要……吗？\n2. I'll have ... instead.｜我改要……\n3. to eat in or take away｜堂食还是外带\n\n快速造句：Can I have an iced coffee? If that's unavailable, I'll have tea instead. To take away, please.\n\n请回原聊天告诉我：① 迁移检查第一遍听懂比例；② 最卡的一句；③ 用英文文字或语音完成30–60秒问路任务。只有实际收到并能分析你的语音时，我才评价发音。",
+      "answers": "示例意思：我可以要冰咖啡吗？如果没有，我改要茶。外带，谢谢。"
+    }
+  ]
+}

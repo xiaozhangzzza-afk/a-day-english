@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-28",
+  "title": "同事交代任务：听懂先后顺序与优先级",
+  "subtitle": "Clarify tasks, deadlines and priorities at work",
+  "minutes": 24,
+  "level": "听力 A1｜阅读 A2–B1",
+  "audio": {
+    "url": "https://learnenglish.britishcouncil.org/free-resources/listening/a1/request-your-boss",
+    "title": "A request from your boss",
+    "source": "British Council LearnEnglish",
+    "note": "断档补课。使用 00:00–01:20（80秒）。2026-11-20 已从官方页面定位媒体并按实时速度连续解码核验；完整音频约 01:39.40。页面提供完整 Transcript，先听顺序和紧急程度，再看原文。"
+  },
+  "sections": [
+    {
+      "id": "listen",
+      "title": "1｜无字幕先听：哪些任务最着急（5分钟）",
+      "body": "播放 00:00–01:20。第一遍不看 Transcript，只数清经理交代了几类任务。第二遍把任务分成“先做”“接着做”“不着急”。第三遍记下邮件、客户、会议室、团队会议和报告等关键词，然后再打开原文核对。",
+      "questions": [
+        "1. 第一项最紧急的任务是什么？",
+        "2. 在邀请大家参加会议之前，Mario 需要先做什么？哪项任务可以稍后完成？"
+      ],
+      "answers": "1. 给德国客户发邮件，询问经理下周何时可以拜访。\n2. 他要先预订会议室；项目短报告不太紧急，可以之后完成。"
+    },
+    {
+      "id": "sound",
+      "title": "2｜精听辨音、弱读与跟读（4分钟）",
+      "body": "每处盲听2遍，再看文字模仿3遍，最后关文本重听。\n\n① “Can you help me?”：can 弱读 /kən/，can you 常连成 /kənjə/。\n② “What can I do?”：can 仍弱读，what 和 do 更突出。\n③ “I'll do it today.”：I'll 与 do 连读；it‿today 边界很轻，today 是时间重点。\n\n影子跟读时用不同重音区分 priority / urgent / when you have time。最后关文本，只靠顺序词复述任务。",
+      "answers": "自查：先听出 email / customer / meeting room / report / today 等内容词，再补功能词。"
+    },
+    {
+      "id": "read",
+      "title": "3｜阅读：先确认优先级，再开始做（4分钟）",
+      "body": "At nine o'clock, Erin's manager gave her four tasks for the day. She needed to send a client an updated price list, book a room for Friday's meeting, check a long report and organise old files. Erin knew she could not finish everything at once. She asked which task was the priority. The manager said the client email was urgent because the client needed the prices before lunch. The room booking came next, as rooms filled quickly. The report could wait until the afternoon, and the old files were not urgent. Erin repeated the order and confirmed the deadlines. She sent the email first, received a reply and then booked the room. By asking two short questions at the beginning, she avoided working on the least important task and gave her manager a clear update before lunch.",
+      "questions": [
+        "1. Why was the client email the first priority?",
+        "2. How did Erin avoid doing the least important task first?"
+      ],
+      "translation": "九点时，艾琳的经理给了她当天四项任务：给客户发送更新后的价目表、预订周五会议室、检查一份长报告，以及整理旧文件。艾琳知道自己无法同时完成所有事情，于是询问哪项任务优先。经理说客户邮件很紧急，因为客户午饭前需要价格。会议室预订排第二，因为房间很快会被订满。报告可以下午再做，旧文件不着急。艾琳复述了任务顺序并确认截止时间。她先发送邮件，收到回复后预订会议室。由于一开始问了两个简短问题，她避免先做最不重要的任务，并在午饭前向经理清楚汇报了进度。",
+      "answers": "1. The client needed the updated prices before lunch.\n2. She asked about the priority, repeated the order and confirmed the deadlines."
+    },
+    {
+      "id": "words",
+      "title": "4｜词汇与高频词块（4分钟）",
+      "body": "1. Can you help me with ...?｜你能帮我处理……吗？｜Can you help me with the meeting notes? 你能帮我处理会议记录吗？\n2. What can I do to help?｜我能做什么来帮忙？｜What can I do to help with the visit? 我能为这次拜访做什么？\n3. do this first｜先做这件事｜Please do this first; the client is waiting. 请先做这个，客户在等。\n4. be a priority｜是优先事项｜The customer email is a priority. 客户邮件是优先事项。\n5. be urgent｜很紧急｜Is this task urgent? 这项任务紧急吗？\n6. book a meeting room｜预订会议室｜I'll book a meeting room for Friday. 我会预订周五的会议室。\n7. after that｜之后｜Send the email; after that, call the team. 先发邮件，之后给团队打电话。\n8. when you have time｜有时间时｜Please check the report when you have time. 有时间时请检查报告。\n9. deadline｜截止时间｜What's the deadline for this task? 这项任务的截止时间是什么？\n10. update｜进度更新｜I'll give you an update before lunch. 我会在午饭前给你进度更新。",
+      "answers": "优先掌握前8个整句词块；用自己的工作任务替换 email、meeting room、report。"
+    },
+    {
+      "id": "grammar",
+      "title": "5｜语法：first / after that / finally 表示顺序（2分钟）",
+      "body": "用 first、after that、finally 把多个任务按顺序说清楚。\n\n例句1：First, book the room. After that, email the team. 先订会议室，之后给团队发邮件。\n例句2：Finally, write the short report. 最后，写简短报告。",
+      "questions": [
+        "1. 排序填词：____, call the client. After that, update the file.",
+        "2. 翻译：最后，有时间时检查报告。"
+      ],
+      "answers": "1. First\n2. Finally, check the report when you have time."
+    },
+    {
+      "id": "speak",
+      "title": "6｜双人对话、替换与快速回应（4分钟）",
+      "body": "【原创对话】\nA: Can you help me with three tasks today?\nB: Sure. What should I do first?\nA: First, email the client. It's urgent. After that, book a meeting room.\nB: Got it. What's the deadline for the report?\nA: Friday. You can do it when you have time.\nB: OK. I'll send you an update before lunch.\n\n【替换练习】\n1. email the client / book a room 换成 call the supplier / update the schedule。\n2. Friday / before lunch 换成 next Monday / before four。\n\n【快速回应：3秒内开口】\n1. 你想问先做什么 → What should I do first?\n2. 你想问是否紧急 → Is this task urgent?\n3. 你确认稍后汇报 → I'll give you an update this afternoon.\n\n【30–60秒口头任务】复述三项工作：先做的紧急任务、第二项任务、可以晚些做的任务；加上两个截止时间和一句进度承诺。",
+      "answers": "示例：First, I'll email the client before lunch because it's urgent. After that, I'll book the room. Finally, I'll check the report this afternoon. I'll give you an update at four."
+    },
+    {
+      "id": "review",
+      "title": "7｜复习前次词块与反馈（1分钟）",
+      "body": "复习10月27日3个词块：\n1. How about we meet ...?｜我们……见怎么样？\n2. When are you free?｜你什么时候有空？\n3. Good idea.｜好主意\n\n快速对话：How about we meet at four? — Good idea. I'm free then.\n\n请回原聊天告诉我：第一遍听懂比例、最卡的一句，以及你的30–60秒任务复述。只有实际收到并能分析语音时，我才评价发音。",
+      "answers": "示例意思：我们四点见怎么样？——好主意，我那时有空。"
+    }
+  ]
+}
