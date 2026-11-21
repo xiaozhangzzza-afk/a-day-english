@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-29",
+  "title": "晚餐聚会初次见面：介绍朋友并记住名字",
+  "subtitle": "在轻松聚会中完成介绍、纠正名字并礼貌回应",
+  "minutes": 23,
+  "level": "听力 A1｜阅读 A2-B1",
+  "audio": {
+    "url": "https://learnenglish.britishcouncil.org/free-resources/listening/a1/meeting-people-dinner",
+    "title": "Meeting people at a dinner",
+    "source": "British Council LearnEnglish",
+    "note": "官方音频总长约 1:19；本课已实际打开并连续播放核验 0:00–1:00（60 秒）。页面含完整 transcript。先无字幕听两遍，再看原文核对姓名与饮料。"
+  },
+  "sections": [
+    {
+      "id": "listen",
+      "title": "1｜无字幕先听（5 分钟）",
+      "body": "第一遍听 0:00–1:00：只判断谁在介绍谁，以及这是正式还是轻松的场合。第二遍记三项：新朋友的名字、名字出现的错误、有人提供了什么。先不要打开 transcript。",
+      "questions": [
+        "Charles 把哪两个人介绍给彼此？",
+        "Julian 犯了什么小错误，之后怎样补救？"
+      ],
+      "answers": "1. 他把 Alyssa 和 Julian 介绍给彼此。\n2. 他把 Alyssa 叫成了 Alison；发现后道歉并改正，然后继续礼貌交谈。"
+    },
+    {
+      "id": "sound",
+      "title": "2｜精听辨音、弱读与跟读（4 分钟）",
+      "body": "循环精听三处：\n1. “I'd like you to meet ...”：I'd /aɪd/ 很短，to 常弱读成 /tə/，重音落在 meet 和人名。\n2. “Nice to meet you.”：to 弱读，meet you 常自然连成一个节奏块。\n3. “Would you like ...?”：would you 在快语流中贴得很近，像 /wʊdʒə/，不要逐词断开。\n\n步骤：先听 → 看短句模仿 → 关文字跟读 → 回到 0:00 重听一分钟。姓名没听清时也不要停，先靠后文确认。",
+      "answers": "功能对应：I'd like you to meet ... 用于介绍；Nice to meet you 用于回应；Would you like ...? 用于礼貌提供饮料或食物。"
+    },
+    {
+      "id": "read",
+      "title": "3｜原创阅读（4 分钟）",
+      "body": "Nina went to her colleague Sam's small dinner party after work. She knew Sam, but she had never met the other guests. Sam smiled and introduced her to Omar, who worked in a different department. Omar repeated Nina's name incorrectly, calling her Mina. Nina did not feel offended. She smiled and said, “It's Nina, with an N.” Omar apologised, repeated the correct name and asked what she did at the company. Their conversation soon became easier. They discovered that they both enjoyed cooking and cycling. Later, Omar offered Nina some sparkling water, and she thanked him. Before leaving, Nina said that she was glad they had met. A friendly introduction does not need to be perfect. Listening carefully, correcting small mistakes politely and asking one simple follow-up question can help two strangers feel comfortable.",
+      "questions": [
+        "How did Nina correct Omar without making the moment uncomfortable?",
+        "What shared interests helped their conversation?"
+      ],
+      "translation": "下班后，妮娜去了同事萨姆的小型晚餐聚会。她认识萨姆，但从未见过其他客人。萨姆微笑着把她介绍给在另一个部门工作的奥马尔。奥马尔把妮娜的名字重复错了，叫成了米娜。妮娜没有觉得被冒犯。她笑着说：“是 Nina，N 开头。”奥马尔道歉，重复了正确的名字，并问她在公司做什么。他们的谈话很快变得轻松起来。他们发现两人都喜欢做饭和骑车。后来，奥马尔给妮娜拿了气泡水，她向他道谢。离开前，妮娜说很高兴认识他。友好的介绍不必完美。认真听、礼貌纠正小错误，再问一个简单的后续问题，就能让两个陌生人感到自在。",
+      "answers": "1. She smiled and said, “It's Nina, with an N.”\n2. Cooking and cycling."
+    },
+    {
+      "id": "words",
+      "title": "4｜词汇与高频词块（4 分钟）",
+      "body": "1. I'd like you to meet ...｜我想介绍你认识……（高频词块）\nI'd like you to meet my friend, Zoe.｜我想介绍你认识我的朋友佐伊。\n2. Nice to meet you.｜很高兴认识你。（高频词块）\nNice to meet you, Daniel.｜很高兴认识你，丹尼尔。\n3. Have you two met?｜你们两位见过吗？（高频词块）\nHave you two met, or should I introduce you?｜你们见过吗，还是我来介绍？\n4. Sorry, did you say ...?｜抱歉，你刚才说的是……吗？（高频词块）\nSorry, did you say Nina or Mina?｜抱歉，你说的是 Nina 还是 Mina？\n5. It's ..., with a ...｜是……，以……开头/带……（高频词块）\nIt's Carl, with a C.｜是 Carl，C 开头。\n6. Would you like ...?｜你想要……吗？（高频词块）\nWould you like some sparkling water?｜你想喝点气泡水吗？\n7. I'm glad we met.｜很高兴认识你。（高频词块）\nI'm glad we met. Let's talk again soon.｜很高兴认识你。我们很快再聊。\n8. guest｜客人\nEach guest brought a small dish.｜每位客人都带了一道小菜。\n9. follow-up question｜后续问题\nA follow-up question keeps the conversation going.｜一个后续问题能让对话继续。"
+    },
+    {
+      "id": "grammar",
+      "title": "5｜语法：Present perfect 的见面经验（3 分钟）",
+      "body": "用 Have/Has + 过去分词询问“到现在为止是否发生过”。在介绍人时，Have you two met? 比 Did you meet? 更自然，因为我们关心的是当前结果：现在是否需要介绍。\n\n例句：\n1. Have you met my colleague, Ben?｜你见过我的同事本吗？\n2. We haven't met before.｜我们以前没见过。\n\n练习：\n1. 填空：___ you ___ (meet) Rosa before?\n2. 改成否定句：We have met before.",
+      "answers": "1. Have; met\n2. We haven't met before."
+    },
+    {
+      "id": "speak",
+      "title": "6｜对话、替换与快速回应（2 分钟）",
+      "body": "原创双人对话：\nA: Maya, have you met my neighbour, Tom?\nB: I don't think so. Nice to meet you, Tom.\nA: Actually, it's Dom, with a D.\nB: Oh, sorry, Dom. Nice to meet you. How do you know Maya?\nA: We go to the same cooking class. Would you like some juice?\nB: Yes, please. Thank you.\n\n替换练习：\n1. neighbour / cooking class / juice → colleague / cycling club / water。\n2. Dom with a D → Carl with a C，并加一句兴趣问题。\n\n快速回应：\n1. 主人介绍你认识新朋友：5 秒内回应。\n2. 对方叫错你的名字：微笑纠正。\n3. 你没听清名字：礼貌确认。\n\n口头任务（30–60 秒）：介绍两个人认识，包含姓名、关系、一个共同点，再由新朋友问一个后续问题。",
+      "answers": "参考：1. Nice to meet you. 2. It's Nina, with an N. 3. Sorry, did you say Sam?"
+    },
+    {
+      "id": "review",
+      "title": "7｜复习与反馈（1 分钟）",
+      "body": "复习上一课的 3 个词块：\n1. do this first｜先做这个\n2. be a priority｜是优先事项\n3. after that｜在那之后\n\n各口头造句一次。回原聊天告诉我：第一遍听懂比例、最卡的名字或句子；也可发英文或语音完成介绍任务。只有实际收到并分析语音后，我才会评价发音。",
+      "answers": "自检：不看文字说出 I'd like you to meet ... / Nice to meet you / Sorry, did you say ...?"
+    }
+  ]
+}
