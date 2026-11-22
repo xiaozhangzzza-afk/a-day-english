@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-30",
+  "title": "咖啡馆点餐：选择规格、替换饮料与礼貌拒绝",
+  "subtitle": "听懂服务员的短问题，用完整词块自然下单",
+  "minutes": 23,
+  "level": "听力 A1｜阅读 A2-B1",
+  "audio": {
+    "url": "https://learnenglish.britishcouncil.org/free-resources/listening/a1/ordering-cafe",
+    "title": "Ordering in a café",
+    "source": "British Council LearnEnglish",
+    "note": "官方音频总长约 2:03；本课已实际打开并连续播放核验 0:00–1:10（70 秒），来源页提供完整 transcript。先无字幕听规格、替换和价格，再看文字。"
+  },
+  "sections": [
+    {
+      "id": "listen",
+      "title": "1｜无字幕先听（5 分钟）",
+      "body": "第一遍听 0:00–1:10，只判断顾客想买什么、最后是否改变选择。第二遍写下你听到的规格、不要的东西、替换饮料和价格。先不要看 transcript；回答主旨题后再核对原文，最后关掉文字重听。",
+      "questions": [
+        "第一位顾客最初想要什么，最后改成了什么？",
+        "第二位顾客点了什么，是堂食还是带走？"
+      ],
+      "answers": "1. 最初想要大杯、不加冰的鲜榨橙汁；得知只有瓶装果汁后，改成苹果汁。\n2. 点了薄荷茶和一片柠檬蛋糕，选择带走。"
+    },
+    {
+      "id": "sound",
+      "title": "2｜精听辨音、弱读与跟读（4 分钟）",
+      "body": "精听三处：\n1. “Can I have ...?”：Can I 连读，can 常弱读，重音在具体食物或饮料。\n2. “I'll have ... instead.”：I'll 很短；have 与后面的元音自然相连；instead 承担对比重音。\n3. “To eat in or take away?”：to 弱读，eat in 连读；eat in 与 take away 两组选项要听整体。\n\n每处先听 3 次，再看文字跟读两遍；随后关文字影子跟读，最后重听整段。不要把 every word 都读得一样重。",
+      "answers": "功能对应：Can I have ...? 用于点单；instead 表示改选；eat in / take away 是堂食 / 带走。"
+    },
+    {
+      "id": "read",
+      "title": "3｜原创阅读（4 分钟）",
+      "body": "After a long train journey, Ryan stopped at a busy café near his hotel. He wanted a cold drink and something small to eat. At first, he ordered a large iced coffee and a cheese sandwich. The server explained that the café had run out of cheese sandwiches but still had chicken and vegetable ones. Ryan chose the vegetable sandwich instead. Then he noticed that the iced coffee came with sweet syrup. Because he did not want much sugar, he asked for it without syrup. The server repeated the order to check it: one large iced coffee without syrup and one vegetable sandwich to eat in. Ryan listened carefully, confirmed the order and paid by card. Asking short questions and checking the final order helped him avoid two mistakes without slowing down the queue.",
+      "questions": [
+        "Why did Ryan change his sandwich and his coffee order?",
+        "How did the server help prevent mistakes?"
+      ],
+      "translation": "经过一段漫长的火车旅程后，瑞安在酒店附近一家繁忙的咖啡馆停下。他想喝一杯冷饮，再吃点小东西。一开始，他点了一大杯冰咖啡和一个芝士三明治。服务员解释说芝士三明治卖完了，但还有鸡肉和蔬菜口味。瑞安改选了蔬菜三明治。随后他注意到冰咖啡会加甜糖浆。因为不想摄入太多糖，他要求不加糖浆。服务员重复订单进行确认：一大杯不加糖浆的冰咖啡，以及一个堂食的蔬菜三明治。瑞安认真听完，确认订单并刷卡付款。简短提问并核对最终订单，让他在不拖慢队伍的情况下避免了两个错误。",
+      "answers": "1. The cheese sandwich was unavailable, and he did not want sugary syrup in his coffee.\n2. The server repeated the complete order for confirmation."
+    },
+    {
+      "id": "words",
+      "title": "4｜词汇与高频词块（4 分钟）",
+      "body": "1. Can I have ...?｜我可以要……吗？（高频词块）\nCan I have a mint tea, please?｜请给我一杯薄荷茶。\n2. regular or large?｜普通杯还是大杯？（高频词块）\nRegular or large? — Regular, please.｜普通杯还是大杯？——普通杯，谢谢。\n3. without ice｜不加冰（高频词块）\nI'd like an orange juice without ice.｜我想要一杯不加冰的橙汁。\n4. I'll have ... instead.｜我改要……（高频词块）\nI'll have apple juice instead.｜我改要苹果汁。\n5. I'm afraid we only have ...｜恐怕我们只有……（高频词块）\nI'm afraid we only have bottled water.｜恐怕我们只有瓶装水。\n6. to eat in or take away?｜堂食还是带走？（高频词块）\nIs that to eat in or take away?｜这是堂食还是带走？\n7. That's all, thanks.｜就这些，谢谢。（高频词块）\nOne coffee and a cookie. That's all, thanks.｜一杯咖啡和一块饼干。就这些，谢谢。\n8. freshly squeezed｜鲜榨的\nDo you have freshly squeezed juice?｜你们有鲜榨果汁吗？\n9. change｜找零\nHere's your change.｜这是找您的零钱。"
+    },
+    {
+      "id": "grammar",
+      "title": "5｜语法：用 I'll have / I'd like 礼貌选择（3 分钟）",
+      "body": "点餐时 I'll have + 名词 表示当下决定；I'd like + 名词 语气稍柔和。两者后面都直接接想要的东西。\n\n例句：\n1. I'll have a large coffee, please.｜我要一大杯咖啡。\n2. I'd like a slice of lemon cake.｜我想要一片柠檬蛋糕。\n\n练习：\n1. 填空：I ___ like a mint tea, please.\n2. 改写：Give me an apple juice. → ___ an apple juice, please.",
+      "answers": "1. would / 'd\n2. I'd like / I'll have"
+    },
+    {
+      "id": "speak",
+      "title": "6｜原创对话、替换与快速回应（2 分钟）",
+      "body": "双人对话：\nA: Hi. Can I have a large orange juice, please?\nB: I'm afraid we only have bottled orange juice.\nA: Oh, I'll have an apple juice instead. Without ice, please.\nB: No problem. Would you like anything to eat?\nA: A chocolate cookie, please.\nB: To eat in or take away?\nA: Take away, please. That's all, thanks.\n\n替换练习：\n1. orange juice / apple juice / cookie → coffee / mint tea / lemon cake。\n2. large / without ice / take away → regular / without sugar / eat in。\n\n快速回应：\n1. 服务员问 “Regular or large?”\n2. 想要的三明治没有了：改点另一种。\n3. 服务员推销饮料：礼貌拒绝。\n\n口头任务（30–60 秒）：完整点一杯饮料和一种食物，说明规格、是否加冰或糖、堂食或带走，并应对一次缺货。",
+      "answers": "参考：1. Regular, please. 2. I'll have the vegetable sandwich instead. 3. No, thanks. Just the sandwich."
+    },
+    {
+      "id": "review",
+      "title": "7｜复习上一课与反馈（1 分钟）",
+      "body": "复习 3 个词块：\n1. I'd like you to meet ...｜我想介绍你认识……\n2. Nice to meet you.｜很高兴认识你。\n3. Sorry, did you say ...?｜抱歉，你刚才说的是……吗？\n\n各说一句。回原聊天告诉我第一遍听懂比例、最卡的点餐短句；也可发英文或语音完成口头任务。只有实际收到并分析语音后，我才评价发音。",
+      "answers": "自检：能否在 5 秒内说出 Can I have ...? / I'll have ... instead / Take away, please。"
+    }
+  ]
+}

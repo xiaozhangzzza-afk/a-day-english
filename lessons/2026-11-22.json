@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-22",
+  "title": "新同事初次交流：介绍岗位并主动提供帮助",
+  "subtitle": "本周迁移检查：换一段未练过的同难度听力，测试能否直接抓住姓名、团队与工作内容",
+  "minutes": 24,
+  "level": "听力 A1-A2｜阅读 A2-B1",
+  "audio": {
+    "url": "https://learnenglish.britishcouncil.org/free-resources/listening/a1/meeting-new-team-member",
+    "title": "Meeting a new team member",
+    "source": "British Council LearnEnglish",
+    "note": "官方音频总长约 1:32；本课已实际打开并连续播放核验 0:00–1:15（75 秒），来源页提供完整 transcript。本周迁移检查先完全不看文字听两遍。"
+  },
+  "sections": [
+    {
+      "id": "listen",
+      "title": "1｜无字幕迁移听力（5 分钟）",
+      "body": "这次使用未练过的同难度素材。第一遍听 0:00–1:15，不暂停，只抓：两个人是谁、分别在哪个团队。第二遍记下两人的工作内容和谁主动提供帮助。不要追每个词，更不要边听边翻译。回答后再打开来源页 transcript 核对，最后关掉文字重听一次。",
+      "questions": [
+        "Carla 和 Peter 分别在哪个团队工作？",
+        "他们为什么认为以后可能会一起工作？"
+      ],
+      "answers": "1. Carla 在市场团队，Peter 在设计团队。\n2. Peter 设计新产品，Carla 为新产品策划营销活动，因此工作会有交集。"
+    },
+    {
+      "id": "sound",
+      "title": "2｜精听辨音、连读弱读与跟读（4 分钟）",
+      "body": "精听三处，每处听 3 次：\n1. “I'm new here.”：I'm 很短，重音落在 new 和 here。\n2. “It's nice to meet you.”：to 弱读成 /tə/，meet you 连成一个节奏块。\n3. “I'm happy to help you if I can.”：to 弱读；help you 辅音接元音；if I 连读，重音落在 happy、help、can。\n\n训练顺序：先听一句 → 看文字跟读两遍 → 不看文字影子跟读两遍 → 关文本重听整段。注意功能词变轻，关键词变重。",
+      "answers": "辨音目标：听到 new here 就知道是新人；听到 happy to help 不必逐词翻译，直接识别为“很乐意帮忙”。"
+    },
+    {
+      "id": "read",
+      "title": "3｜原创阅读（4 分钟）",
+      "body": "On her first morning at a new company, Lina felt nervous about speaking to strangers. At the coffee machine, a colleague called Ben introduced himself. Lina said she had joined the customer service team and had started only two days earlier. Ben worked in IT support, so he explained that they might speak often when customers reported technical problems. Instead of asking many difficult questions, he asked Lina what she was working on that week. She described a short guide for new customers. Ben said the guide sounded useful and offered to check the technical vocabulary. Lina thanked him and asked where the team usually had lunch. By the end of the conversation, she knew one friendly face, one useful contact and one place to meet other colleagues. A simple workplace conversation can build confidence when both people listen and ask clear follow-up questions.",
+      "questions": [
+        "Why might Lina and Ben speak often at work?",
+        "What three useful things did Lina gain from the conversation?"
+      ],
+      "translation": "在新公司上班的第一天早晨，莉娜对和陌生人说话感到紧张。在咖啡机旁，一位叫本的同事做了自我介绍。莉娜说自己加入了客户服务团队，两天前才开始工作。本在 IT 支持部门工作，因此他解释说，当客户报告技术问题时，他们可能会经常交流。他没有问许多困难的问题，而是问莉娜这周在做什么。她介绍了一份给新客户的简短指南。本说这份指南听起来很有用，并主动提出帮她检查技术词汇。莉娜向他道谢，并询问团队通常在哪里吃午饭。谈话结束时，她认识了一张友善的面孔、一个有用的联系人，也知道了一个能见到其他同事的地方。只要双方认真倾听并提出清楚的后续问题，简单的职场交流也能建立信心。",
+      "answers": "1. Customer service may need IT support when customers report technical problems.\n2. A friendly face, a useful contact and a place to meet other colleagues."
+    },
+    {
+      "id": "words",
+      "title": "4｜词汇与高频词块（4 分钟）",
+      "body": "1. I'm new here.｜我是新来的。（高频词块）\nI'm new here, so I'm still learning the system.｜我是新来的，还在熟悉系统。\n2. Welcome to the team.｜欢迎加入团队。（高频词块）\nWelcome to the team, Lina.｜欢迎加入团队，莉娜。\n3. What team are you in?｜你在哪个团队？（高频词块）\nWhat team are you in, and where do you sit?｜你在哪个团队，坐在哪里？\n4. What do you do?｜你做什么工作？（高频词块）\nWhat do you do in customer service?｜你在客服部门负责什么？\n5. I'm working on ...｜我正在做……（高频词块）\nI'm working on a guide for new customers.｜我正在制作新客户指南。\n6. I'm happy to help.｜我很乐意帮忙。（高频词块）\nI'm happy to help if you have questions.｜如果你有问题，我很乐意帮忙。\n7. That sounds interesting.｜听起来很有意思。（高频词块）\nThat sounds interesting. Tell me more.｜听起来很有意思，再讲讲吧。\n8. colleague｜同事\nA colleague showed me around the office.｜一位同事带我参观了办公室。\n9. technical｜技术性的\nBen checked the technical vocabulary.｜本检查了技术词汇。"
+    },
+    {
+      "id": "grammar",
+      "title": "5｜语法：What do you do? 与 What are you working on?（3 分钟）",
+      "body": "What do you do? 用一般现在时问长期岗位或职责；What are you working on? 用现在进行时问当前项目。\n\n例句：\n1. What do you do in the design team?｜你在设计团队负责什么？\n2. What are you working on this week?｜你这周在做什么？\n\n练习：\n1. 你想问对方的长期职责：What ___ you ___?\n2. 用正确形式填空：What ___ you ___ (work) on today?",
+      "answers": "1. do; do\n2. are; working"
+    },
+    {
+      "id": "speak",
+      "title": "6｜原创对话、替换与快速回应（3 分钟）",
+      "body": "双人对话：\nA: Hi, I'm Kai. I'm new here.\nB: Welcome to the team, Kai. I'm Emma. What team are you in?\nA: I'm in finance. What do you do?\nB: I work in operations. What are you working on this week?\nA: I'm checking a monthly report, but I have a few system questions.\nB: I'm happy to help. We can look at it after lunch.\nA: Thanks. I really appreciate that.\n\n替换练习：\n1. finance / monthly report / system questions → marketing / event plan / design questions。\n2. after lunch → tomorrow morning，并把 help 换成 introduce you to the right person。\n\n快速回应（5 秒内）：\n1. 新同事说 “I'm new here.”——欢迎并问团队。\n2. 对方问 “What do you do?”——用一句话介绍职责。\n3. 同事说不会用系统——主动提供帮助。\n\n口头任务（30–60 秒）：以新同事身份介绍姓名、团队、长期职责、当前任务，再向对方问一个后续问题。",
+      "answers": "参考：1. Welcome to the team. What team are you in? 2. I work in finance and check monthly reports. 3. I'm happy to help. We can look at it together."
+    },
+    {
+      "id": "review",
+      "title": "7｜复习上一课与反馈（1 分钟）",
+      "body": "复习 3 个词块：\n1. something's come up｜临时出了点事\n2. How about ...?｜……怎么样？\n3. Are you free then?｜你那时有空吗？\n\n各造一个短句。然后回原聊天告诉我：本次陌生素材第一遍听懂多少、最卡哪句；也可以发英文或语音完成口头任务。只有收到并实际分析语音后，我才评价发音。",
+      "answers": "迁移自检：不看 transcript，能否直接听出两人的团队、职责和 help 的含义；能做到 2 项以上就算有效迁移。"
+    }
+  ]
+}
