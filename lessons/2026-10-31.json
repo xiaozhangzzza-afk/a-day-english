@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-31",
+  "title": "电话订位：人数、时间与修改预约",
+  "subtitle": "在餐厅订桌并澄清“六点”和“六个人”的误会",
+  "minutes": 23,
+  "level": "听力 A1-A2｜阅读 A2-B1",
+  "audio": {
+    "url": "https://learnenglish.britishcouncil.org/free-resources/listening/a1/booking-table",
+    "title": "Booking a table",
+    "source": "British Council LearnEnglish",
+    "note": "官方音频总长约 2:07；本课已实际打开并连续播放核验 0:00–1:10（70 秒）。来源页提供完整 transcript；先听首次订位和第二次来电开头，再看文字。"
+  },
+  "sections": [
+    {
+      "id": "listen",
+      "title": "1｜无字幕先听（5 分钟）",
+      "body": "第一遍听 0:00–1:10：记录首次预订的日期、人数、时间和姓名。第二遍注意第二次电话为什么发生误会。先不要看 transcript；回答后核对原文，再关文字听一次。",
+      "questions": [
+        "Jamie 首次订了什么时候、几个人的桌位？",
+        "第二次来电中，Jamie 想把什么从 four 改成 six？"
+      ],
+      "answers": "1. 明天晚上 7:30，四个人。\n2. 想把人数从四个人改为六个人，不是把时间改成六点。"
+    },
+    {
+      "id": "sound",
+      "title": "2｜精听辨音、弱读与跟读（4 分钟）",
+      "body": "精听三处：\n1. “Can I book a table ...?”：Can I 连读，a 很轻，重音在 book、table。\n2. “What time would you like?”：would you 常连成 /wʊdʒə/，time 是关键词。\n3. “make it for six instead”：make it 连读；for 弱读。six 后面若没听到 people 或 o'clock，就要确认。\n\n先听后模仿：每句听 3 次 → 看文字跟读两次 → 关文字跟读 → 重听片段。",
+      "answers": "辨音重点：six people 与 six o'clock 共享数字 six，必须靠后面的名词或澄清句判断。"
+    },
+    {
+      "id": "read",
+      "title": "3｜原创阅读（4 分钟）",
+      "body": "Mia wanted to celebrate her birthday at a small Italian restaurant. She called on Monday and asked for a table for five at eight on Friday evening. The restaurant was busy, so the staff member offered seven thirty or nine. Mia chose seven thirty and gave her name and phone number. The next day, two more friends said they could come. Mia called again to change the booking from five people to seven. At first, the staff member thought she wanted a table at seven o'clock. Mia politely explained that the time should stay the same; only the number of guests had changed. The restaurant moved the group to a larger table near the window. Before ending the call, Mia repeated the final details: Friday, seven people, seven thirty. Confirming the booking prevented a confusing surprise on her birthday.",
+      "questions": [
+        "What misunderstanding happened during Mia's second call?",
+        "Which final details did Mia repeat?"
+      ],
+      "translation": "米娅想在一家小型意大利餐厅庆祝生日。她周一打电话，预订周五晚上八点五个人的桌位。餐厅很忙，工作人员提供了七点半或九点两个时间。米娅选择七点半，并留下姓名和电话号码。第二天，又有两位朋友说能参加。米娅再次打电话，想把预约人数从五人改成七人。起初，工作人员以为她想把时间改为七点。米娅礼貌解释说时间保持不变，只有客人人数改变。餐厅把他们换到靠窗的一张大桌。挂电话前，米娅重复了最终信息：周五、七个人、七点半。确认预约避免了生日当天出现令人困惑的意外。",
+      "answers": "1. The staff member thought Mia wanted seven o'clock, but she meant seven people.\n2. Friday, seven people and seven thirty."
+    },
+    {
+      "id": "words",
+      "title": "4｜词汇与高频词块（4 分钟）",
+      "body": "1. book a table｜预订桌位（高频词块）\nCan I book a table for tomorrow night?｜我可以订明晚的桌位吗？\n2. a table for four｜四人桌（高频词块）\nI'd like a table for four, please.｜我想订四个人的桌位。\n3. What time would you like?｜您想要几点？（高频词块）\nWhat time would you like on Friday?｜您周五想要几点？\n4. What name is it?｜请问预订姓名？（高频词块）\nWhat name is the booking under?｜预约登记在什么名字下？\n5. I called earlier to ...｜我早些时候打过电话来……（高频词块）\nI called earlier to book a table.｜我早些时候打电话订了桌。\n6. change the booking｜修改预约（高频词块）\nCan I change the booking to six people?｜我可以把预约改为六个人吗？\n7. Is that OK?｜那样可以吗？（高频词块）\nThe table is near the kitchen. Is that OK?｜桌子靠近厨房，可以吗？\n8. available｜可用的；有空位的\nWe have a table available at nine.｜九点有一张空桌。\n9. confirm｜确认\nI'd like to confirm the final time.｜我想确认最终时间。"
+    },
+    {
+      "id": "grammar",
+      "title": "5｜语法：for + 人数 / at + 时间（3 分钟）",
+      "body": "订位时 for 表示人数，at 表示具体时间：a table for six at seven。词很短，却决定数字的含义。\n\n例句：\n1. I'd like a table for six.｜我想订六个人的桌位。\n2. The booking is at six o'clock.｜预约时间是六点。\n\n练习：\n1. 填空：a table ___ four ___ half past seven。\n2. 澄清：不是六点，是六个人。→ Not ___ six o'clock; ___ six people.",
+      "answers": "1. for; at\n2. at; for"
+    },
+    {
+      "id": "speak",
+      "title": "6｜原创对话、替换与快速回应（2 分钟）",
+      "body": "双人对话：\nA: Hi. Can I book a table for Saturday night?\nB: Of course. How many people is it for?\nA: Four, at about eight.\nB: We can do seven thirty or nine.\nA: Seven thirty, please. The name is Chen.\nB: Great. A table for four at seven thirty.\nA: Actually, can I change it to six people?\nB: Six o'clock?\nA: No, sorry—six people. The time stays the same.\n\n替换练习：\n1. Saturday / four / seven thirty → Friday / two / eight。\n2. six people → eight people，并询问是否有更大的桌子。\n\n快速回应：\n1. 餐厅只提供 7:30 或 9:00：选一个。\n2. 对方把 six people 听成 six o'clock：澄清。\n3. 挂电话前确认人数和时间。\n\n口头任务（30–60 秒）：完成一次订位并修改一次人数，最后复述日期、人数、时间和姓名。",
+      "answers": "参考：1. Seven thirty, please. 2. Sorry, I mean six people, not six o'clock. 3. So that's a table for six at seven thirty, right?"
+    },
+    {
+      "id": "review",
+      "title": "7｜复习上一课与反馈（1 分钟）",
+      "body": "复习 3 个词块：\n1. Can I have ...?｜我可以要……吗？\n2. I'll have ... instead.｜我改要……\n3. To eat in or take away?｜堂食还是带走？\n\n各造一句。回原聊天告诉我第一遍听懂比例、最卡的数字或句子；也可发英文或语音完成订位。只有实际收到并分析语音后，我才评价发音。",
+      "answers": "自检：能否在 5 秒内说出 a table for four at half past seven，并清楚区分 for 与 at。"
+    }
+  ]
+}

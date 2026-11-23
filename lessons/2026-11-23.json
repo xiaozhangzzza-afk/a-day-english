@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-23",
+  "title": "车站广播：抓住时间、站台与临时变更",
+  "subtitle": "旅行场景听力：不逐词翻译，先锁定数字、目的地和行动指令",
+  "minutes": 24,
+  "level": "听力 A2｜阅读 A2-B1",
+  "audio": {
+    "url": "https://learnenglish.britishcouncil.org/free-resources/listening/a2/transport-announcements",
+    "title": "Transport announcements",
+    "source": "British Council LearnEnglish",
+    "note": "官方音频总长约 2:29；本课已实际打开并连续播放核验 0:00–1:15（75 秒）。来源页提供完整 transcript；先听前两则火车广播，再看文字。"
+  },
+  "sections": [
+    {
+      "id": "listen",
+      "title": "1｜无字幕先听（5 分钟）",
+      "body": "第一遍听 0:00–1:15，不暂停，只写四类信息：时间、目的地、站台、变化。第二遍用符号记笔记，例如 12:20 → Bristol，P2 → P9，+8 min。不要试图翻译地名之间的每个词。回答后打开来源页 transcript 核对，再关文字听第三遍。",
+      "questions": [
+        "原定 12:20 去 Bristol 的火车最初在哪个站台，后来改到哪个站台？",
+        "这班火车延误大约多久，乘客现在应做什么？"
+      ],
+      "answers": "1. 最初是 2 号站台，后来改到 9 号站台。\n2. 大约延误 8 分钟；乘客应前往 9 号站台。"
+    },
+    {
+      "id": "sound",
+      "title": "2｜精听辨音、连读弱读与跟读（4 分钟）",
+      "body": "精听三处，每处循环 3 次：\n1. “the twelve twenty to Bristol”：to 弱读成 /tə/，时间和目的地承担重音。\n2. “delayed by approximately eight minutes”：by 很轻，重音集中在 delayed、eight minutes。\n3. “make your way to Platform Nine”：your 常弱读，way to 连成一个节奏块；Nine 是关键信息。\n\n顺序：先只听 → 看文字跟读两遍 → 关文字影子跟读两遍 → 从头重听广播。数字听见后先记，不要在脑中翻译。",
+      "answers": "广播抓词顺序：train/time → destination → platform → delayed/now → 新站台。漏掉修饰词仍能完成行动。"
+    },
+    {
+      "id": "read",
+      "title": "3｜原创阅读（4 分钟）",
+      "body": "Ella was travelling to Manchester for a weekend concert. She arrived at the station forty minutes early and checked the departure board. Her train was listed on Platform 4, so she bought a drink and waited nearby. Ten minutes later, an announcement said the service was delayed because of a technical problem. It would now leave from Platform 11. Ella did not understand every word, but she heard the train time, Manchester and Platform 11. She checked the board again and followed other passengers across the bridge. Before boarding, she asked a staff member to confirm that the train still stopped at her station. He said yes and showed her the correct carriage. By focusing on key information and confirming one detail, Ella stayed calm and reached the right train without translating the whole announcement.",
+      "questions": [
+        "Which three key details helped Ella understand the announcement?",
+        "What did she confirm with the staff member?"
+      ],
+      "translation": "埃拉要去曼彻斯特参加周末音乐会。她提前四十分钟到达车站并查看出发信息屏。她的列车显示在 4 号站台，于是她买了饮料，在附近等候。十分钟后，广播说列车因技术问题延误，并将改从 11 号站台发车。埃拉没有听懂每个词，但她听见了发车时间、曼彻斯特和 11 号站台。她再次查看信息屏，并跟着其他乘客走过天桥。上车前，她向工作人员确认列车是否仍停靠她要下车的车站。工作人员说会停，并指给她正确的车厢。埃拉专注关键信息，再确认一个细节，因此没有翻译整段广播也能保持冷静并坐对列车。",
+      "answers": "1. The train time, Manchester and Platform 11.\n2. She confirmed that the train still stopped at her station."
+    },
+    {
+      "id": "words",
+      "title": "4｜词汇与高频词块（4 分钟）",
+      "body": "1. the train to ...｜开往……的火车（高频词块）\nIs this the train to Manchester?｜这是去曼彻斯特的火车吗？\n2. depart from Platform ...｜从……号站台发车（高频词块）\nThe train will depart from Platform 9.｜火车将从 9 号站台发车。\n3. be delayed by ...｜延误……时间（高频词块）\nThe service is delayed by ten minutes.｜该班次延误十分钟。\n4. make your way to ...｜前往……（高频词块）\nPlease make your way to Platform 6.｜请前往 6 号站台。\n5. calling at ...｜经停……（高频词块）\nThe train is calling at Oxford.｜这班火车经停牛津。\n6. Is this the right platform?｜这是正确的站台吗？（高频词块）\nExcuse me, is this the right platform for Bristol?｜请问，这是去布里斯托尔的正确站台吗？\n7. still stop at ...?｜仍然停靠……吗？（高频词块）\nDoes this train still stop at Reading?｜这班火车还停靠雷丁吗？\n8. carriage｜车厢\nFirst class is in the rear carriage.｜一等座在后部车厢。\n9. approximately｜大约\nThe delay is approximately eight minutes.｜延误大约八分钟。"
+    },
+    {
+      "id": "grammar",
+      "title": "5｜语法：被动语态描述延误与变更（3 分钟）",
+      "body": "广播常用 be + 过去分词，把重点放在班次状态而不是造成问题的人：The train is delayed. 将来安排可用 will be。\n\n例句：\n1. The train is delayed by eight minutes.｜火车延误八分钟。\n2. The platform will be changed.｜站台将会更改。\n\n练习：\n1. 填空：The flight ___ delayed by twenty minutes.\n2. 改为被动表达：They changed the platform. → The platform ___.",
+      "answers": "1. is\n2. was changed"
+    },
+    {
+      "id": "speak",
+      "title": "6｜原创对话、替换与快速回应（3 分钟）",
+      "body": "双人对话：\nA: Excuse me, is this the right platform for the 9:30 train to York?\nB: It was, but the platform has changed to 7.\nA: Thanks. Is the train delayed?\nB: Yes, by about ten minutes.\nA: Does it still stop at Leeds?\nB: Yes, it does. Please make your way to Platform 7 now.\nA: Great, thank you for your help.\n\n替换练习：\n1. 9:30 / York / Platform 7 → 12:20 / Bristol / Platform 9。\n2. ten minutes / Leeds → twenty minutes / Oxford。\n\n快速回应（5 秒内）：\n1. 广播没听清新站台：向工作人员确认。\n2. 朋友问列车是否晚点：回答延误 8 分钟。\n3. 你要确认是否停靠某站。\n\n口头任务（30–60 秒）：复述一次列车变更，必须包含时间、目的地、原站台、新站台、延误和你要采取的行动。",
+      "answers": "参考：1. Sorry, which platform is it now? 2. Yes, it's delayed by eight minutes. 3. Does this train still stop at Oxford?"
+    },
+    {
+      "id": "review",
+      "title": "7｜复习上一课与反馈（1 分钟）",
+      "body": "复习 3 个词块：\n1. I'm new here.｜我是新来的。\n2. What do you do?｜你做什么工作？\n3. I'm happy to help.｜我很乐意帮忙。\n\n各造一句。回原聊天告诉我：第一遍听懂比例、最卡的数字或广播句；也可用英文或语音复述。只有收到并实际分析语音后，我才评价发音。",
+      "answers": "自检：能否不看文字直接说出 time + destination + platform + delay 四项信息。"
+    }
+  ]
+}
