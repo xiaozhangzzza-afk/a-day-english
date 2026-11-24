@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-24",
+  "title": "朋友面试后闲聊：追问结果并自然鼓励",
+  "subtitle": "听懂对方如何评价面试，用简短回应让闲聊继续",
+  "minutes": 24,
+  "level": "听力 A2｜阅读 A2-B1",
+  "audio": {
+    "url": "https://learnenglish.britishcouncil.org/free-resources/listening/a2/four-conversations",
+    "title": "Four conversations",
+    "source": "British Council LearnEnglish",
+    "note": "官方音频总长约 4:12；本课已实际打开并连续播放核验 0:00–1:15（75 秒），使用第一段面试后对话。来源页提供完整 transcript；先无字幕听两遍。"
+  },
+  "sections": [
+    {
+      "id": "listen",
+      "title": "1｜无字幕先听（5 分钟）",
+      "body": "第一遍听 0:00–1:15，不暂停，只判断谈话发生在什么事情之后、说话人总体乐观还是悲观。第二遍记三个细节：准备情况、面试时长、什么时候会有消息。不要边听边翻译。回答后再打开 transcript 核对，然后关文字重听。",
+      "questions": [
+        "女方觉得面试表现如何？她为什么比较有信心？",
+        "面试方说会在什么时候回复？男方最后怎样回应？"
+      ],
+      "answers": "1. 她觉得进行得相当顺利；她准备充分，而且当天似乎只有她一位面试者。\n2. 三到四天内回复；男方祝她好运。"
+    },
+    {
+      "id": "sound",
+      "title": "2｜精听辨音、连读弱读与跟读（4 分钟）",
+      "body": "精听三处，每处循环 3 次：\n1. “How did it go?”：did it 连读，it 很轻，整体是固定询问“结果怎么样”。\n2. “I think it went quite well.”：it went 连起来，quite 和 well 承担态度重音。\n3. “We'll call you back with news.”：we'll 很短，call you 常连成一个节奏块，back 与 news 是信息重点。\n\n训练：先只听 → 看文字跟读两遍 → 关文字影子跟读两遍 → 重听整段。模仿自然停顿和态度，不要把每个词读得一样重。",
+      "answers": "功能提示：How did it go? 用来追问刚结束的事情；quite well 表示“相当顺利”；Good luck with it 用来鼓励。"
+    },
+    {
+      "id": "read",
+      "title": "3｜原创阅读（4 分钟）",
+      "body": "After her first interview for a new job, Grace met her friend Leo for coffee. Leo did not ask ten questions at once. He simply said, “How did it go?” Grace explained that she had prepared several examples from her previous work and had answered most questions calmly. One answer was not perfect, but the interviewer smiled and asked useful follow-up questions. The meeting lasted about forty minutes. At the end, the company said it would contact her by Friday. Grace felt hopeful, although she did not want to celebrate too early. Leo listened without interrupting and said that her preparation sounded strong. He wished her good luck and suggested talking about something relaxing while they finished their drinks. Grace left the café feeling less nervous. A short question, careful listening and sincere encouragement made the conversation supportive rather than stressful.",
+      "questions": [
+        "What signs made Grace feel hopeful?",
+        "How did Leo make the conversation supportive?"
+      ],
+      "translation": "第一次参加新工作面试后，格蕾丝和朋友利奥去喝咖啡。利奥没有一次问十个问题，只简单地问：“进行得怎么样？”格蕾丝解释说，她准备了几个以前工作的例子，并冷静回答了大部分问题。有一个回答并不完美，但面试官微笑着提出了有用的后续问题。面试持续约四十分钟。结束时，公司说会在周五前联系她。格蕾丝感到有希望，不过不想太早庆祝。利奥没有打断她，而是认真倾听，并说她准备得很充分。他祝她好运，还建议在喝完饮料时聊点轻松的内容。格蕾丝离开咖啡馆时不再那么紧张。一个简短问题、认真倾听和真诚鼓励，让谈话成为支持而不是压力。",
+      "answers": "1. She answered most questions calmly, the interviewer smiled and asked follow-up questions, and the interview lasted about forty minutes.\n2. He listened without interrupting, praised her preparation and wished her good luck."
+    },
+    {
+      "id": "words",
+      "title": "4｜词汇与高频词块（4 分钟）",
+      "body": "1. How did it go?｜进行得怎么样？（高频词块）\nHow did your interview go?｜你的面试怎么样？\n2. It went quite well.｜进行得相当顺利。（高频词块）\nThe meeting went quite well.｜会议进行得相当顺利。\n3. What did they say?｜他们怎么说？（高频词块）\nWhat did they say about the next step?｜他们对下一步怎么说？\n4. call someone back｜给某人回电话（高频词块）\nThey'll call me back on Friday.｜他们周五会给我回电话。\n5. hear back from ...｜收到……的回复（高频词块）\nI hope to hear back from the company soon.｜我希望很快收到公司的回复。\n6. Good luck with it.｜祝你顺利。（高频词块）\nGood luck with your interview.｜祝你面试顺利。\n7. Don't worry too much.｜别太担心。（高频词块）\nDon't worry too much while you wait.｜等待时别太担心。\n8. prepared｜准备充分的\nShe felt prepared for every question.｜她觉得自己为每个问题都做好了准备。\n9. hopeful｜抱有希望的\nI'm hopeful, but I don't know the result yet.｜我抱有希望，但还不知道结果。"
+    },
+    {
+      "id": "grammar",
+      "title": "5｜语法：一般过去时追问已结束的事情（3 分钟）",
+      "body": "事情已经结束时，用 did + 动词原形提问；回答用过去式。注意 did 后不能再用 went。\n\n例句：\n1. How did the interview go?｜面试进行得怎么样？\n2. What did they say at the end?｜最后他们说了什么？\n\n练习：\n1. 填空：How ___ the meeting ___ (go)?\n2. 改错：What did they said?",
+      "answers": "1. did; go\n2. What did they say?"
+    },
+    {
+      "id": "speak",
+      "title": "6｜原创对话、替换与快速回应（3 分钟）",
+      "body": "双人对话：\nA: Hey, how did your interview go?\nB: I think it went quite well. I answered most of the questions.\nA: That's good. What did they say at the end?\nB: They'll call me back by Thursday.\nA: Sounds promising. How do you feel now?\nB: Hopeful, but still a little nervous.\nA: That's understandable. Good luck with it.\nB: Thanks. I really needed to hear that.\n\n替换练习：\n1. interview / Thursday / nervous → presentation / tomorrow / relieved。\n2. answered most questions → explained my project clearly，并加入一个追问。\n\n快速回应（5 秒内）：\n1. 朋友刚面试完：问结果。\n2. 对方说三天后有消息：表达希望。\n3. 对方很紧张：先理解，再鼓励。\n\n口头任务（30–60 秒）：讲一次刚结束的面试、会议或考试，说明准备、过程、结果时间和你的感受。",
+      "answers": "参考：1. How did it go? 2. That sounds promising. I hope you hear back soon. 3. That's understandable. You prepared well—good luck with it."
+    },
+    {
+      "id": "review",
+      "title": "7｜复习上一课与反馈（1 分钟）",
+      "body": "复习 3 个词块：\n1. the train to ...｜开往……的火车\n2. be delayed by ...｜延误……时间\n3. make your way to ...｜前往……\n\n各造一句。回原聊天告诉我：第一遍听懂比例、最卡的闲聊句；也可发英文或语音完成口头任务。只有实际收到并分析语音后，我才评价发音。",
+      "answers": "自检：5 秒内说出 How did it go? / It went quite well. / Good luck with it."
+    }
+  ]
+}

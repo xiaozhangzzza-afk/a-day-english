@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-01",
+  "title": "留下语音留言：说明身份、请求回电与留下联系方式",
+  "subtitle": "电话无人接听时，用清楚的顺序留下完整信息",
+  "minutes": 23,
+  "level": "听力 A1-A2｜阅读 A2-B1",
+  "audio": {
+    "url": "https://learnenglish.britishcouncil.org/free-resources/listening/a1/voicemail-message",
+    "title": "A voicemail message",
+    "source": "British Council LearnEnglish",
+    "note": "官方音频总长约 1:31；本课已实际打开并连续播放核验 0:00–1:10（70 秒）。来源页提供完整 transcript；先听身份、来意、回电请求和电话号码，再看文字。"
+  },
+  "sections": [
+    {
+      "id": "listen",
+      "title": "1｜无字幕先听（5 分钟）",
+      "body": "第一遍听 0:00–1:10，不暂停，只判断谁给谁留言、为什么打电话。第二遍记录四项：来电人公司、需要的信息、希望对方采取的行动、电话号码。数字没听全也先继续。回答后看 transcript 核对，再关文字重听。",
+      "questions": [
+        "Marina 从哪家公司打来，她为什么联系 John？",
+        "她希望 John 做哪两件事？"
+      ],
+      "answers": "1. 她从 Old Time Toys 打来，需要新产品的信息。\n2. 希望 John 回电话，并把新产品手册和价格信息发到她的邮箱。"
+    },
+    {
+      "id": "sound",
+      "title": "2｜精听辨音、连读弱读与跟读（4 分钟）",
+      "body": "精听三处：\n1. “I'm not here at the moment”：not here 连读，at the 弱而快，重音在 not、here、moment。\n2. “I'll call you back”：I'll 很短，call you 连成一个节奏块，back 承担动作重点。\n3. “Could you please call me ...?”：Could you 常连成 /kʊdʒə/，please 和 call me 是礼貌请求重点。\n\n先只听三遍，再看文字跟读两遍；关文字影子跟读，最后重听整段。号码按小组听，不要逐个数字翻译成中文。",
+      "answers": "留言顺序：姓名/公司 → 联系原因 → 请求 → 电话或邮箱 → 致谢。"
+    },
+    {
+      "id": "read",
+      "title": "3｜原创阅读（4 分钟）",
+      "body": "Daniel called a local sports club because he wanted to join a weekend training session. No one answered, so he left a voicemail. First, he gave his full name and said where he had found the club's number. Next, he explained that he was interested in the beginner class on Saturday morning. He asked whether there were still places available and whether he needed to bring any equipment. Daniel then said his phone number slowly, grouping the digits into three parts. Before ending the message, he repeated the number and asked the club to call him back after six because he would be at work during the day. His message lasted less than a minute, but it included everything the staff needed. A clear voicemail is easier to answer when the purpose, request and contact details follow a simple order.",
+      "questions": [
+        "What two questions did Daniel ask the sports club?",
+        "Why did he ask them to call after six?"
+      ],
+      "translation": "丹尼尔给当地一家体育俱乐部打电话，因为他想参加周末训练课。无人接听，所以他留下语音留言。首先，他说出全名，并说明在哪里找到俱乐部电话。接着，他解释自己对周六早上的初学者课程感兴趣。他询问是否还有名额，以及是否需要携带装备。然后，丹尼尔慢慢说出电话号码，把数字分成三组。结束留言前，他重复了号码，并请俱乐部六点后回电，因为白天他要上班。他的留言不到一分钟，但包含工作人员需要的全部信息。按照来意、请求和联系方式的简单顺序留言，会让对方更容易回复。",
+      "answers": "1. He asked whether places were available and whether he needed equipment.\n2. Because he would be at work during the day."
+    },
+    {
+      "id": "words",
+      "title": "4｜词汇与高频词块（4 分钟）",
+      "body": "1. leave a message｜留言（高频词块）\nPlease leave a message after the tone.｜请在提示音后留言。\n2. call someone back｜给某人回电话（高频词块）\nCould you call me back after six?｜你可以六点后回电吗？\n3. This is ... calling from ...｜我是……，从……打来（高频词块）\nThis is Daniel calling from Green Street.｜我是丹尼尔，从格林街打来。\n4. I'm calling about ...｜我打来是想咨询……（高频词块）\nI'm calling about the Saturday class.｜我打来想咨询周六的课程。\n5. Could you please ...?｜你可以……吗？（高频词块）\nCould you please send me the details?｜你可以把详情发给我吗？\n6. when you are back｜你回来时（高频词块）\nPlease call me when you are back.｜你回来时请给我电话。\n7. I look forward to hearing from you.｜期待你的回复。（高频词块）\nThanks. I look forward to hearing from you.｜谢谢，期待你的回复。\n8. brochure｜手册\nPlease email me the new brochure.｜请把新手册发到我的邮箱。\n9. contact details｜联系方式\nRepeat your contact details clearly.｜请清楚重复联系方式。"
+    },
+    {
+      "id": "grammar",
+      "title": "5｜语法：Could you please + 动词原形（3 分钟）",
+      "body": "Could you please + 动词原形用于礼貌请求。please 可放在动词前；不要在 could 后加 to。\n\n例句：\n1. Could you please call me back?｜你可以给我回电话吗？\n2. Could you please email me the brochure?｜你可以把手册发给我吗？\n\n练习：\n1. 填空：Could you please ___ (send) the prices?\n2. 改错：Could you please to call me?",
+      "answers": "1. send\n2. Could you please call me?"
+    },
+    {
+      "id": "speak",
+      "title": "6｜原创对话、替换与快速回应（2 分钟）",
+      "body": "原创电话与回电：\nA: Hi, this is Mia calling from Blue Travel. I'm calling about your weekend tour.\nB: Hi, Mia. Sorry I missed your call. How can I help?\nA: Could you please confirm the meeting time and email me the address?\nB: Of course. The meeting is at nine, and I'll send the address now.\nA: Great. If we get disconnected, my number is 020 4455 7812.\nB: Got it. Thanks for calling.\n\n替换练习：\n1. weekend tour / meeting time / address → training class / available places / equipment list。\n2. nine / email → ten thirty / text。\n\n快速回应：\n1. 无人接听：报姓名和来意。\n2. 请求六点后回电。\n3. 留完号码后礼貌结束。\n\n口头任务（30–60 秒）：留一条完整语音留言，包含身份、来意、两个请求、号码和方便回电时间。",
+      "answers": "参考：1. Hi, this is Alex. I'm calling about the class. 2. Could you please call me back after six? 3. Thanks. I look forward to hearing from you."
+    },
+    {
+      "id": "review",
+      "title": "7｜复习上一课与反馈（1 分钟）",
+      "body": "复习 3 个词块：\n1. book a table｜订桌\n2. a table for four｜四人桌\n3. change the booking｜修改预约\n\n各造一句。回原聊天告诉我第一遍听懂比例、最卡的是号码还是连读句；也可发英文或语音完成留言。只有实际收到并分析语音后，我才评价发音。",
+      "answers": "自检：不看文字说出 This is ... calling from ... / Could you please ...? / I'll call you back。"
+    }
+  ]
+}
