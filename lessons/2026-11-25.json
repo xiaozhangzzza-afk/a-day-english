@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-25",
+  "title": "礼貌说明无法参加：给理由并主动安排补做",
+  "subtitle": "不只说“不能来”，还要提前告知、询问后续并确认截止时间",
+  "minutes": 24,
+  "level": "听力 A2｜阅读 A2-B1",
+  "audio": {
+    "url": "https://learnenglish.britishcouncil.org/free-resources/listening/a2/missing-class",
+    "title": "Missing a class",
+    "source": "British Council LearnEnglish",
+    "note": "官方音频总长约 1:53；本课已实际打开并连续播放核验 0:00–1:15（75 秒）。来源页提供完整 transcript；先无字幕听原因、补做内容与截止时间。"
+  },
+  "sections": [
+    {
+      "id": "listen",
+      "title": "1｜无字幕先听（5 分钟）",
+      "body": "第一遍听 0:00–1:15，不暂停：只判断谁不能参加、什么时候、为什么。第二遍记录需要补做的章节、线上材料和截止时间。不要逐词翻译数字之间的句子。回答后再打开 transcript 核对，最后关文字重听。",
+      "questions": [
+        "Diana 为什么不能参加下周三的课？她如何礼貌开口？",
+        "老师要求她补做哪些内容，最先出现的截止时间是什么时候？"
+      ],
+      "answers": "1. 她有医生预约；她先称呼老师，再说 I'm sorry, but I can't come ... 并提前说明。\n2. 阅读第 17、19、20 章，并看线上文章和视频；截止时间是本周五。"
+    },
+    {
+      "id": "sound",
+      "title": "2｜精听辨音、连读弱读与跟读（4 分钟）",
+      "body": "精听三处：\n1. “I'm sorry, but I can't come ...”：but 与 I 连读，can't 和 come 承担重音。\n2. “Thanks for letting me know.”：for 弱读，letting me 连成一个节奏块。\n3. “Is there anything to do at home?”：Is there 常连读，to 弱读成 /tə/，anything 和 home 是信息重点。\n\n顺序：先只听 3 次 → 看文字跟读两遍 → 关文字影子跟读 → 回到片段开头重听。先模仿礼貌语气，再追求单词准确。",
+      "answers": "表达结构：apology + inability + reason；对方用 Thanks for letting me know 表示接受；再用 Is there anything ...? 主动处理后续。"
+    },
+    {
+      "id": "read",
+      "title": "3｜原创阅读（4 分钟）",
+      "body": "Evan had agreed to help at a friend's community event on Saturday, but on Thursday his manager asked him to work an extra shift. Evan did not wait until the last minute. He called his friend and said he was sorry but could not attend the morning session. He briefly explained the work problem without giving unnecessary details. Then he asked whether he could help in another way. His friend said they still needed someone to collect signs on Sunday afternoon. Evan accepted that task and asked where and when to meet. Before ending the call, he repeated the plan: Sunday at three, outside the community centre. His friend was disappointed, but appreciated the early message and practical alternative. A polite refusal is easier to accept when it includes a clear apology, a short reason and a sincere offer to help.",
+      "questions": [
+        "Why could Evan not attend on Saturday morning?",
+        "What made his refusal easier for his friend to accept?"
+      ],
+      "translation": "埃文原本答应周六帮助朋友的社区活动，但周四经理要求他加班。埃文没有等到最后一刻才说。他打电话给朋友，道歉说自己无法参加上午的活动，并简短解释工作问题，没有提供不必要的细节。随后他询问能否用其他方式帮忙。朋友说周日下午仍需要有人收回标牌。埃文接受了这项任务，并询问见面的地点和时间。挂电话前，他重复确认计划：周日下午三点，社区中心外面。朋友虽然失望，但很感谢他提前通知并提出可行的替代方案。礼貌拒绝如果包含清楚的道歉、简短理由和真诚的帮助意愿，会更容易让人接受。",
+      "answers": "1. His manager asked him to work an extra shift.\n2. He apologised early, gave a short reason and offered a practical alternative."
+    },
+    {
+      "id": "words",
+      "title": "4｜词汇与高频词块（4 分钟）",
+      "body": "1. I'm sorry, but I can't ...｜抱歉，但我不能……（高频词块）\nI'm sorry, but I can't come on Saturday.｜抱歉，我周六不能来。\n2. I have an appointment.｜我有预约。（高频词块）\nI have a doctor's appointment that morning.｜我那天早上约了医生。\n3. Thanks for letting me know.｜谢谢你告诉我。（高频词块）\nThanks for letting me know early.｜谢谢你提前告诉我。\n4. Is there anything I can do?｜有什么我能做的吗？（高频词块）\nIs there anything I can do from home?｜有什么我能在家做的吗？\n5. make up the work｜补做工作（高频词块）\nHow can I make up the work?｜我怎样补做这些工作？\n6. Is there a deadline?｜有截止时间吗？（高频词块）\nIs there a deadline for the task?｜这项任务有截止时间吗？\n7. I'll do that.｜我会照做。（高频词块）\nThanks for the instructions. I'll do that.｜谢谢你的说明，我会照做。\n8. appointment｜预约\nCan we move the appointment to Friday?｜我们能把预约改到周五吗？\n9. alternative｜替代方案\nSunday afternoon is a good alternative.｜周日下午是个不错的替代方案。"
+    },
+    {
+      "id": "grammar",
+      "title": "5｜语法：can't + 动词原形说明无法参加（3 分钟）",
+      "body": "can/can't 后直接接动词原形，不加 to。为避免生硬，可在前面加 I'm sorry, but，并在后面补简短理由。\n\n例句：\n1. I'm sorry, but I can't attend the meeting.｜抱歉，我不能参加会议。\n2. I can't come because I have an appointment.｜我不能来，因为我有预约。\n\n练习：\n1. 填空：I can't ___ (join) you tonight.\n2. 改错：I'm sorry, but I can't to come.",
+      "answers": "1. join\n2. I'm sorry, but I can't come."
+    },
+    {
+      "id": "speak",
+      "title": "6｜原创对话、替换与快速回应（3 分钟）",
+      "body": "双人对话：\nA: Hi, are you still coming to the study group tomorrow?\nB: I'm sorry, but I can't come. I have a doctor's appointment.\nA: OK. Thanks for letting me know.\nB: Is there anything I can do at home?\nA: Yes. Please read the notes and send your ideas by Friday.\nB: No problem. Is there a deadline for the slides?\nA: Friday evening.\nB: Got it. I'll do that.\n\n替换练习：\n1. study group / doctor's appointment / notes → dinner / work shift / restaurant booking。\n2. Friday evening → Sunday afternoon，并提出另一种帮助。\n\n快速回应（5 秒内）：\n1. 无法参加朋友聚会：道歉并给简短理由。\n2. 对方接受：主动询问还能做什么。\n3. 听到任务：确认截止时间。\n\n口头任务（30–60 秒）：礼貌拒绝一次邀约，包含道歉、原因、提前通知、替代方案和最后确认。",
+      "answers": "参考：1. I'm sorry, but I can't make it. I have to work. 2. Is there anything else I can do? 3. Is there a deadline for that?"
+    },
+    {
+      "id": "review",
+      "title": "7｜复习上一课与反馈（1 分钟）",
+      "body": "复习 3 个词块：\n1. How did it go?｜进行得怎么样？\n2. hear back from ...｜收到……的回复\n3. Good luck with it.｜祝你顺利。\n\n各造一句。回原聊天告诉我第一遍听懂比例、最卡的拒绝或数字句；也可发英文或语音完成口头任务。只有实际收到并分析语音后，我才评价发音。",
+      "answers": "自检：5 秒内说出 I'm sorry, but I can't ... / Thanks for letting me know / Is there anything I can do?"
+    }
+  ]
+}
