@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-03",
+  "title": "同事改会议时间：提出问题、给选项并确认通知",
+  "subtitle": "用礼貌问法把会议从十一点改到九点",
+  "minutes": 24,
+  "level": "听力 A2｜阅读 A2-B1",
+  "audio": {
+    "url": "https://learnenglish.britishcouncil.org/free-resources/listening/a2/changing-meeting-time",
+    "title": "Changing a meeting time",
+    "source": "British Council LearnEnglish",
+    "note": "官方音频总长约 1:48；本课已实际打开并连续播放核验 0:00–1:15（75 秒）。来源页提供完整 transcript；先听原时间、备选方案和最终时间。"
+  },
+  "sections": [
+    {
+      "id": "listen",
+      "title": "1｜无字幕先听（5 分钟）",
+      "body": "第一遍听 0:00–1:15，不暂停，只抓原时间、问题和最终时间。第二遍记录 Anna 提出的两个方向，以及 Lucy 为什么需要改时间。先不要看 transcript；回答后核对原文，再关文字重听。",
+      "questions": [
+        "会议原定几点，最后改为几点？",
+        "Anna 给了哪两类选择，Lucy 为什么选择更早的时间？"
+      ],
+      "answers": "1. 原定上午 11 点，最后改为上午 9 点。\n2. 推迟到下午 1 点，或提前到更早的上午；Lucy 中午 12 点在市中心办公室还有重要会议。"
+    },
+    {
+      "id": "sound",
+      "title": "2｜精听辨音、连读弱读与跟读（4 分钟）",
+      "body": "精听三处：\n1. “Do you have a minute?”：Do you 常连成 /dʒə/，have a 连读。\n2. “Would it be possible to move it?”：Would it 连读，to 弱读，possible 与 move 承担重音。\n3. “Could we make it nine o'clock?”：Could we 很轻快，make it 连读，nine 是对比重点。\n\n每句先听 3 次，再看文字跟读两遍；关文字影子跟读，最后重听整段。模仿礼貌上扬语气。",
+      "answers": "三步功能：先请求占用一分钟 → 说明时间问题 → 提出具体新时间。"
+    },
+    {
+      "id": "read",
+      "title": "3｜原创阅读（4 分钟）",
+      "body": "Nora had arranged a project meeting with three colleagues for Tuesday at ten. On Monday, a client asked her to join an urgent call at the same time. Nora contacted the team immediately instead of cancelling the meeting. She explained the conflict and asked whether it would be possible to move their discussion. One colleague suggested Tuesday afternoon, but another had a site visit then. They compared their calendars and agreed on nine o'clock Tuesday morning. Nora sent an updated invitation with the new time, room number and agenda. She also asked everyone to accept the invitation so she knew they had seen the change. The meeting began on time the next day. Because Nora explained the problem, offered options and confirmed the final arrangement in writing, nobody arrived at the wrong time or missed the discussion.",
+      "questions": [
+        "Why did Nora need to move the meeting?",
+        "What did she include in the updated invitation?"
+      ],
+      "translation": "诺拉原本安排三位同事周二十点开项目会议。周一，一位客户请她同一时间参加紧急电话会议。诺拉没有取消会议，而是立即联系团队。她解释时间冲突，并询问能否调整讨论时间。一位同事建议周二下午，但另一位那时要去现场。大家比较日程后，同意改到周二上午九点。诺拉发送了更新后的会议邀请，写明新时间、会议室号码和议程。她还请每个人接受邀请，以确认他们已看到变更。第二天会议准时开始。因为诺拉解释问题、提供选项并用文字确认最终安排，所以没有人到错时间或错过讨论。",
+      "answers": "1. A client call conflicted with the original meeting time.\n2. The new time, room number and agenda."
+    },
+    {
+      "id": "words",
+      "title": "4｜词汇与高频词块（4 分钟）",
+      "body": "1. Do you have a minute?｜你有空聊一分钟吗？（高频词块）\nDo you have a minute to discuss Tuesday's meeting?｜你有空聊一下周二的会议吗？\n2. have a problem with the time｜时间上有点问题（高频词块）\nI have a problem with the time we agreed.｜我们约的时间我有点问题。\n3. Would it be possible to ...?｜是否可以……？（高频词块）\nWould it be possible to move the meeting?｜可以调整会议时间吗？\n4. postpone it to ...｜把它推迟到……（高频词块）\nCould we postpone it to the afternoon?｜我们能推迟到下午吗？\n5. bring it forward｜把它提前（高频词块）\nLet's bring it forward to nine.｜我们把它提前到九点吧。\n6. What would suit you?｜什么时间适合你？（高频词块）\nMorning or afternoon—what would suit you?｜上午还是下午，哪个适合你？\n7. Could we make it ...?｜我们能改到……吗？（高频词块）\nCould we make it nine o'clock?｜我们能改到九点吗？\n8. agenda｜议程\nI've attached the updated agenda.｜我已附上更新后的议程。\n9. confirm｜确认\nI'll email everyone to confirm the change.｜我会发邮件给大家确认变更。"
+    },
+    {
+      "id": "grammar",
+      "title": "5｜语法：Could we / Would it be possible to 礼貌建议（3 分钟）",
+      "body": "Could we + 动词原形适合提出具体建议；Would it be possible to + 动词原形更委婉地询问可行性。\n\n例句：\n1. Could we move it to nine?｜我们能改到九点吗？\n2. Would it be possible to meet earlier?｜可以早点见面吗？\n\n练习：\n1. 填空：Could we ___ (postpone) the meeting?\n2. 改写：Can we meet earlier? → Would it be possible ___ earlier?",
+      "answers": "1. postpone\n2. to meet"
+    },
+    {
+      "id": "speak",
+      "title": "6｜原创对话、替换与快速回应（3 分钟）",
+      "body": "双人对话：\nA: Hi, do you have a minute to talk about tomorrow's meeting?\nB: Sure. We said eleven, didn't we?\nA: Yes, but I have a problem with the time. Would it be possible to move it?\nB: We could postpone it to two or bring it forward to nine. What would suit you?\nA: Could we make it nine? I have a client call at eleven.\nB: Nine works for me. I'll send an updated invitation.\nA: Thanks. I'll accept it when it arrives.\n\n替换练习：\n1. eleven / two / nine → three / four thirty / one。\n2. client call → site visit，并由对方提出两个新时间。\n\n快速回应（5 秒内）：\n1. 原时间有冲突：礼貌提出改时间。\n2. 对方给上午或下午：选择并说明理由。\n3. 最终确定：说你会通知其他人。\n\n口头任务（30–60 秒）：模拟改一次会议时间，包含原时间、冲突、两个选项、最终时间和确认通知。",
+      "answers": "参考：1. Would it be possible to move it? 2. Morning would suit me because I have a call at two. 3. Great. I'll email everyone to confirm the change."
+    },
+    {
+      "id": "review",
+      "title": "7｜复习上一课与反馈（1 分钟）",
+      "body": "复习 3 个词块：\n1. Where are you from?｜你来自哪里？\n2. I grew up in ...｜我在……长大。\n3. We have that in common.｜我们有这个共同点。\n\n各造一句。回原聊天告诉我第一遍听懂比例、最卡的时间或连读句；也可发英文或语音完成会议改期。只有实际收到并分析语音后，我才评价发音。",
+      "answers": "自检：不看文字说出 Would it be possible to move it? / What would suit you? / Could we make it nine?"
+    }
+  ]
+}
