@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-04",
+  "title": "小组项目约时间：比较空档并确定见面地点",
+  "subtitle": "听懂三个人的时间限制，快速把计划定下来",
+  "minutes": 23,
+  "level": "听力 A1-A2｜阅读 A2-B1",
+  "audio": {
+    "url": "https://learnenglish.britishcouncil.org/free-resources/listening/a1/organising-group-project",
+    "title": "Organising a group project",
+    "source": "British Council LearnEnglish",
+    "note": "官方音频总长约 1:50；本课已实际打开并连续播放核验 0:00–1:15（75 秒）。来源页提供完整 transcript；先听三个人的空闲时间与最终地点。"
+  },
+  "sections": [
+    {
+      "id": "listen",
+      "title": "1｜无字幕先听（5 分钟）",
+      "body": "第一遍听 0:00–1:15，不暂停，只判断他们要安排什么。第二遍分别记 Robert、Cara、Selim 的时间限制，以及为什么图书馆不合适。先不看 transcript；回答后核对，再关文字重听。",
+      "questions": [
+        "三人最后决定星期几、几点见面？",
+        "他们为什么不选图书馆，最后选择哪里？"
+      ],
+      "answers": "1. 星期三下午 4 点。\n2. 图书馆里不能交谈，不适合计划会议；最后选择大学咖啡馆。"
+    },
+    {
+      "id": "sound",
+      "title": "2｜精听辨音、连读弱读与跟读（4 分钟）",
+      "body": "精听三处：\n1. “How about we meet first?”：How about 连读，about 首音弱，meet 是重音。\n2. “When are you free?”：When are 连读，are 很轻，free 是关键信息。\n3. “Where shall we meet?”：shall we 连得很近，where 与 meet 承担重音。\n\n每处先听 3 次 → 看文字跟读两遍 → 关文字影子跟读 → 重听整段。遇到多个时间时只记数字和星期。",
+      "answers": "安排顺序：提出先见面 → 问每个人空闲时间 → 选择交集 → 再确定地点。"
+    },
+    {
+      "id": "read",
+      "title": "3｜原创阅读（4 分钟）",
+      "body": "Three colleagues needed to prepare a short presentation for Friday. Mei suggested meeting early so they would have enough time to practise. Daniel was free every morning, but Sara worked with clients before lunch. Sara could meet between three and five on Wednesday, while Daniel had another class at five. They agreed to meet at four for forty-five minutes. At first, Daniel suggested the quiet reading room, but Mei explained that they needed to discuss ideas aloud. They chose the café downstairs instead because it had a large table and was usually calm in the afternoon. Before leaving, Mei repeated the plan and divided the first tasks: she would create the outline, Daniel would collect figures and Sara would find pictures. A clear time, suitable place and simple first step helped the group start without another long discussion.",
+      "questions": [
+        "Why did the group choose four o'clock on Wednesday?",
+        "What first tasks did the three people accept?"
+      ],
+      "translation": "三位同事需要为周五准备一个简短演示。梅建议早点见面，这样有足够时间练习。丹尼尔每天上午都有空，但萨拉午饭前要接待客户。萨拉周三下午三点到五点有空，而丹尼尔五点还有课。他们同意四点见面四十五分钟。起初丹尼尔建议安静的阅览室，但梅解释说他们需要大声讨论想法。最后选择楼下咖啡馆，因为那里有大桌子，下午通常也很安静。离开前，梅重复计划并分配第一批任务：她制作提纲，丹尼尔收集数据，萨拉找图片。明确时间、合适地点和简单的第一步，让小组不用再次长时间讨论就能开始。",
+      "answers": "1. Sara was free from three to five, and Daniel had a class at five.\n2. Mei: outline; Daniel: figures; Sara: pictures."
+    },
+    {
+      "id": "words",
+      "title": "4｜词汇与高频词块（4 分钟）",
+      "body": "1. start early｜早点开始（高频词块）\nLet's start early so we have enough time.｜我们早点开始，时间才够。\n2. How about we ...?｜我们……怎么样？（高频词块）\nHow about we meet first?｜我们先见面怎么样？\n3. When are you free?｜你什么时候有空？（高频词块）\nWhen are you free on Wednesday?｜你周三什么时候有空？\n4. I can do ...｜我……时间可以。（高频词块）\nI can do four o'clock.｜我四点可以。\n5. Where shall we meet?｜我们在哪里见？（高频词块）\nWhere shall we meet after lunch?｜午饭后我们在哪里见？\n6. That works for me.｜那个时间我可以。（高频词块）\nWednesday at four works for me.｜周三四点我可以。\n7. Let's meet at ...｜我们在……见吧。（高频词块）\nLet's meet at the café downstairs.｜我们在楼下咖啡馆见吧。\n8. enough time｜足够时间\nWe need enough time to practise.｜我们需要足够时间练习。\n9. divide the tasks｜分配任务\nLet's divide the tasks before we leave.｜离开前我们分配一下任务吧。"
+    },
+    {
+      "id": "grammar",
+      "title": "5｜语法：How about + 主语 + 动词（3 分钟）",
+      "body": "How about we + 动词原形可直接提出共同计划；也可以用 How about + 动词-ing。\n\n例句：\n1. How about we meet at four?｜我们四点见怎么样？\n2. How about meeting at the café?｜在咖啡馆见面怎么样？\n\n练习：\n1. 填空：How about we ___ (start) on Wednesday?\n2. 改写：How about we meet at four? → How about ___ at four?",
+      "answers": "1. start\n2. meeting"
+    },
+    {
+      "id": "speak",
+      "title": "6｜原创对话、替换与快速回应（2 分钟）",
+      "body": "双人对话：\nA: How about we meet this week to plan the project?\nB: Good idea. When are you free?\nA: I can do Wednesday between three and five.\nB: I have a class at five. Could we make it four?\nA: Four works for me. Where shall we meet?\nB: Let's meet at the café. We can talk there.\nA: Great. Wednesday at four, then.\n\n替换练习：\n1. Wednesday / four / café → Thursday / ten / meeting room。\n2. class at five → client call at four，并寻找新的交集。\n\n快速回应：\n1. 对方问什么时候有空：给时间段。\n2. 时间不合适：提出另一个时间。\n3. 最终确定：复述时间和地点。\n\n口头任务（30–60 秒）：和同伴安排一次项目讨论，至少比较两个时间、两个地点，并以复述最终安排结束。",
+      "answers": "参考：1. I'm free from three to five. 2. I can't do four. How about five thirty? 3. Great—Thursday at ten in the meeting room."
+    },
+    {
+      "id": "review",
+      "title": "7｜复习上一课与反馈（1 分钟）",
+      "body": "复习 3 个词块：\n1. Would it be possible to ...?｜是否可以……？\n2. What would suit you?｜什么时间适合你？\n3. Could we make it ...?｜我们能改到……吗？\n\n各造一句。回原聊天告诉我第一遍听懂比例、最卡的时间句；也可发英文或语音完成安排任务。只有实际收到并分析语音后，我才评价发音。",
+      "answers": "自检：不看文字说出 When are you free? / I can do four / Where shall we meet?"
+    }
+  ]
+}
