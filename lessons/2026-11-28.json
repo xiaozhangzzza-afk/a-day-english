@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-28",
+  "title": "办公室认人：把外貌、位置与职责对应起来",
+  "subtitle": "本周迁移检查：换一段未练过的 A2 素材，测试能否直接抓住“谁负责什么”",
+  "minutes": 24,
+  "level": "听力 A2｜阅读 A2-B1",
+  "audio": {
+    "url": "https://learnenglish.britishcouncil.org/free-resources/listening/a2/whos-who-office",
+    "title": "Who's who in the office",
+    "source": "British Council LearnEnglish",
+    "note": "官方音频总长约 1:54；本课已实际打开并连续播放核验 0:00–1:15（75 秒）。来源页提供完整 transcript；本周迁移检查先完全不看文字听两遍。"
+  },
+  "sections": [
+    {
+      "id": "listen",
+      "title": "1｜无字幕迁移听力（5 分钟）",
+      "body": "第一遍听 0:00–1:15，不暂停，只判断谁是新人、谁在介绍办公室。第二遍画三列：姓名｜外貌或位置｜职责，尽量填 Luciana、Ian、Maria。不要翻译每个形容词。答题后再看 transcript，最后关文字重听。",
+      "questions": [
+        "Luciana 是怎样被描述的，她负责什么？",
+        "Ian 和 Maria 分别是什么职位或负责什么工作？"
+      ],
+      "answers": "1. 她留着短的深色头发、穿紫色裙子，负责新订单。\n2. Ian 是营销总监；Maria 负责内部 IT 系统。"
+    },
+    {
+      "id": "sound",
+      "title": "2｜精听辨音、连读弱读与跟读（4 分钟）",
+      "body": "精听三处：\n1. “Let me show you around.”：Let me 常连成 /lemi/，show you 连读，around 是重音。\n2. “She's the one with short, dark hair.”：the one with 连成一个节奏块，外貌词承担重音。\n3. “She's responsible for the internal IT systems.”：for 弱读，responsible、IT systems 是信息重点。\n\n每句先听 3 次 → 看文字跟读两遍 → 关文字影子跟读 → 重听整段。听名字后立刻等待职责关键词，不要回头翻译。",
+      "answers": "迁移抓词：姓名通常在前，随后出现 deals with / director / responsible for 等职责信号。"
+    },
+    {
+      "id": "read",
+      "title": "3｜原创阅读（4 分钟）",
+      "body": "On his first day at a new office, Aaron struggled to remember everyone's name. His colleague Mia gave him a quick tour. She pointed to Linda, the woman beside the large printer, and explained that Linda handled travel expenses. Next to the window was Omar, who managed customer complaints. The tall man in the blue shirt was Ben, the IT support specialist. Aaron did not try to memorise every detail immediately. He wrote three short notes: Linda—printer—expenses; Omar—window—customers; Ben—blue shirt—IT. Later, when his laptop could not connect to the network, Aaron knew exactly who to ask. He introduced himself to Ben and described the problem clearly. Connecting a face, a location and one responsibility made the names easier to remember and helped Aaron ask the right person for support.",
+      "questions": [
+        "Which three details did Aaron connect for each colleague?",
+        "Who did he ask when his laptop had a network problem?"
+      ],
+      "translation": "在新办公室上班第一天，亚伦很难记住所有人的名字。同事米娅带他快速参观。她指着大打印机旁的琳达，解释说琳达负责差旅费用。窗边是奥马尔，他处理客户投诉。穿蓝色衬衫的高个男子本是 IT 支持专员。亚伦没有试图立刻记住所有细节，而是写下三条短笔记：琳达—打印机—费用；奥马尔—窗边—客户；本—蓝衬衫—IT。后来笔记本电脑无法连接网络时，亚伦准确知道该找谁。他向本做了自我介绍，并清楚描述问题。把一张脸、一个位置和一项职责联系起来，使名字更容易记，也帮助亚伦向正确的人求助。",
+      "answers": "1. A face or appearance, a location and one responsibility.\n2. Ben, the IT support specialist."
+    },
+    {
+      "id": "words",
+      "title": "4｜词汇与高频词块（4 分钟）",
+      "body": "1. show someone around｜带某人参观（高频词块）\nLet me show you around the office.｜我带你参观一下办公室。\n2. Who's that over there?｜那边那个人是谁？（高频词块）\nWho's that over there by the window?｜窗边那个人是谁？\n3. the one with ...｜有着……的那个人（高频词块）\nShe's the one with short hair.｜她就是短发的那位。\n4. the person by ...｜在……旁边的人（高频词块）\nThe person by the printer is Ben.｜打印机旁的人是本。\n5. deal with ...｜处理……（高频词块）\nLuciana deals with new orders.｜卢西亚娜处理新订单。\n6. be responsible for ...｜负责……（高频词块）\nMaria is responsible for the IT systems.｜玛丽亚负责 IT 系统。\n7. Who do I talk to about ...?｜关于……我该找谁？（高频词块）\nWho do I talk to about expenses?｜费用问题我该找谁？\n8. colleague｜同事\nA colleague introduced me to the team.｜一位同事把我介绍给团队。\n9. department｜部门\nWelcome to the finance department.｜欢迎来到财务部门。"
+    },
+    {
+      "id": "grammar",
+      "title": "5｜语法：who 引导的关系从句认人（3 分钟）",
+      "body": "用 the person / the one + who + 动词说明“做某事的那个人”；口语中可用位置或外貌继续缩小范围。\n\n例句：\n1. He's the person who manages customer complaints.｜他是处理客户投诉的人。\n2. She's the one who works beside the printer.｜她是在打印机旁工作的人。\n\n练习：\n1. 合并：That's Ben. He works in IT. → That's Ben, ___ works in IT.\n2. 填空：She's the one ___ deals with orders.",
+      "answers": "1. who\n2. who"
+    },
+    {
+      "id": "speak",
+      "title": "6｜原创对话、替换与快速回应（3 分钟）",
+      "body": "双人对话：\nA: Welcome to the department. Let me show you around.\nB: Thanks. Who's that over there by the printer?\nA: That's Linda. She deals with travel expenses.\nB: Got it. And the person in the blue shirt?\nA: That's Ben. He's responsible for IT support.\nB: Great. Who do I talk to about customer complaints?\nA: Omar—the one by the window.\nB: Thanks. I'll introduce myself later.\n\n替换练习：\n1. printer / travel expenses / Linda → meeting room / invoices / Sara。\n2. blue shirt / IT support → glasses / new orders，并用 who 从句复述。\n\n快速回应：\n1. 新人问窗边的人是谁。\n2. 有电脑问题：询问该找谁。\n3. 你没记住名字：描述外貌和位置再确认。\n\n口头任务（30–60 秒）：介绍三位同事，每人包括姓名、位置或外貌、职责，并说明遇到一个问题该找谁。",
+      "answers": "参考：1. That's Omar. He manages customer complaints. 2. Who do I talk to about IT problems? 3. Sorry, what's the name of the person with glasses by the door?"
+    },
+    {
+      "id": "review",
+      "title": "7｜复习上一课与反馈（1 分钟）",
+      "body": "复习 3 个词块：\n1. Please call me ...｜请叫我……\n2. I work as ...｜我的职位是……\n3. Let's keep in touch.｜让我们保持联系。\n\n各造一句。回原聊天告诉我：陌生素材第一遍听懂多少、最卡的是名字还是职责；也可以发英文或语音完成口头任务。只有收到并实际分析语音后，我才评价发音。",
+      "answers": "迁移自检：不看 transcript，能否正确对应至少两组“姓名 + 职责”；能做到就说明抓关键词能力在迁移。"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-05",
+  "title": "服装店礼貌问答：找试衣间、换颜色与确认付款",
+  "subtitle": "把短问题听成完整词块，不再逐词翻译",
+  "minutes": 23,
+  "level": "听力 A1｜阅读 A2-B1",
+  "audio": {
+    "url": "https://learnenglish.britishcouncil.org/free-resources/listening/a1/shopping-clothes",
+    "title": "Shopping for clothes",
+    "source": "British Council LearnEnglish",
+    "note": "官方音频总长约 1:14；本课已实际打开并连续播放核验 0:00–1:05（65 秒），覆盖找试衣间、询问颜色尺码、价格和付款。来源页提供完整 transcript。"
+  },
+  "sections": [
+    {
+      "id": "listen",
+      "title": "1｜无字幕先听（5 分钟）",
+      "body": "第一遍听 0:00–1:05，不暂停，只判断顾客最后是否购买。第二遍记录衣服种类、颜色、尺码、价格和付款方式。不要因为 £29 没立刻反应就停止。回答后打开 transcript 核对，再关文字听一次。",
+      "questions": [
+        "顾客想要什么衣服、什么颜色和尺码？",
+        "衣服多少钱，顾客怎样付款？"
+      ],
+      "answers": "1. 一件黑色的套头衫，特小码。\n2. 29 英镑，使用信用卡付款。"
+    },
+    {
+      "id": "sound",
+      "title": "2｜精听辨音、连读弱读与跟读（4 分钟）",
+      "body": "精听三处：\n1. “I'm just looking, thanks.”：I'm 很短，just looking 连成一块，用于礼貌表示先看看。\n2. “Do you have this jumper in black?”：Do you 常连成 /dʒə/，jumper、black 是重音。\n3. “What size do you need?”：What size 连读，do you 弱化，size 是关键信息。\n\n每句先听 3 次 → 看文字跟读两遍 → 关文字影子跟读 → 重听整段。把颜色和尺码听成订单关键词。",
+      "answers": "功能对应：just looking 婉拒帮助；have ... in black 询问颜色；What size ...? 询问尺码。"
+    },
+    {
+      "id": "read",
+      "title": "3｜原创阅读（4 分钟）",
+      "body": "Mina needed a light jacket for a weekend trip. In the first shop, an assistant offered help, but Mina said she was just looking. After a few minutes, she found a jacket she liked and asked where the changing rooms were. The medium felt comfortable around her shoulders, but the sleeves were too long. She asked whether the shop had the same jacket in a small size and a darker colour. The assistant brought a black one, and Mina tried it on. It fitted well and cost less than she expected. Before paying, she checked whether she could return it if the size felt wrong at home. The assistant explained the return policy and offered a receipt. Mina paid by card and kept the receipt. Asking short, clear questions helped her choose confidently without feeling rushed.",
+      "questions": [
+        "Why did Mina ask for a different jacket?",
+        "What did she confirm before paying?"
+      ],
+      "translation": "米娜需要一件周末旅行穿的轻便夹克。在第一家店里，店员主动帮忙，但米娜说自己先看看。几分钟后，她找到一件喜欢的夹克，并询问试衣间在哪里。中码肩部很舒服，但袖子太长。她问店里是否有同款小码和更深的颜色。店员拿来一件黑色的，米娜试穿后发现很合身，价格也比预期低。付款前，她确认如果回家后觉得尺码不合适是否可以退货。店员解释退货政策并提供收据。米娜刷卡付款并保留收据。简短清楚的提问帮助她从容选择，而不会感到被催促。",
+      "answers": "1. The medium had sleeves that were too long, so she wanted a small size and darker colour.\n2. She confirmed the return policy."
+    },
+    {
+      "id": "words",
+      "title": "4｜词汇与高频词块（4 分钟）",
+      "body": "1. I'm just looking, thanks.｜我先看看，谢谢。（高频词块）\nI'm just looking, thanks. I'll ask if I need help.｜我先看看，需要帮助会问。\n2. Where are the changing rooms?｜试衣间在哪里？（高频词块）\nExcuse me, where are the changing rooms?｜请问试衣间在哪里？\n3. Do you have this in ...?｜这个有……颜色/尺码吗？（高频词块）\nDo you have this in black?｜这个有黑色吗？\n4. What size do you need?｜您需要什么尺码？（高频词块）\nWhat size do you need—small or medium?｜您需要小码还是中码？\n5. Can I try it on?｜我可以试穿吗？（高频词块）\nCan I try this jacket on?｜我可以试穿这件夹克吗？\n6. How much is this?｜这个多少钱？（高频词块）\nHow much is this jumper?｜这件套头衫多少钱？\n7. Can I pay by card?｜我可以刷卡吗？（高频词块）\nCan I pay by credit card?｜我可以用信用卡付款吗？\n8. fit｜合身\nThe small size fits me well.｜小码很合身。\n9. receipt｜收据\nPlease keep the receipt.｜请保留收据。"
+    },
+    {
+      "id": "grammar",
+      "title": "5｜语法：Do you have this in + 颜色/尺码（3 分钟）",
+      "body": "询问同款的其他颜色或尺码时，用 Do you have this in ...? in 后接 black、blue、small、medium 等。\n\n例句：\n1. Do you have this in black?｜这个有黑色吗？\n2. Do you have this in a smaller size?｜这个有小一点的尺码吗？\n\n练习：\n1. 填空：Do you have this ___ blue?\n2. 改写：Is there a large one? → Do you have this ___ a large size?",
+      "answers": "1. in\n2. in"
+    },
+    {
+      "id": "speak",
+      "title": "6｜原创对话、替换与快速回应（2 分钟）",
+      "body": "双人对话：\nA: Hello. Can I help you?\nB: I'm just looking, thanks.\nB: Excuse me, do you have this jacket in black?\nA: Yes. What size do you need?\nB: Small, please. Can I try it on?\nA: Of course. The changing rooms are over there.\nB: It fits well. How much is it?\nA: It's £35.\nB: Great. Can I pay by card?\n\n替换练习：\n1. jacket / black / small → jumper / blue / medium。\n2. £35 / card → £29 / cash，并询问退货政策。\n\n快速回应：\n1. 店员主动帮忙但你想先看。\n2. 想换成黑色小码。\n3. 试穿后询问价格和付款。\n\n口头任务（30–60 秒）：完成一次买衣服对话，包含衣服、颜色、尺码、试穿、价格、付款和是否要收据。",
+      "answers": "参考：1. I'm just looking, thanks. 2. Do you have this in black, size small? 3. How much is it, and can I pay by card?"
+    },
+    {
+      "id": "review",
+      "title": "7｜复习上一课与反馈（1 分钟）",
+      "body": "复习 3 个词块：\n1. When are you free?｜你什么时候有空？\n2. I can do four.｜我四点可以。\n3. Where shall we meet?｜我们在哪里见？\n\n各造一句。回原聊天告诉我第一遍听懂比例、最卡的颜色尺码句；也可发英文或语音完成购物对话。只有实际收到并分析语音后，我才评价发音。",
+      "answers": "自检：5 秒内说出 I'm just looking / Do you have this in black? / Can I try it on?"
+    }
+  ]
+}
